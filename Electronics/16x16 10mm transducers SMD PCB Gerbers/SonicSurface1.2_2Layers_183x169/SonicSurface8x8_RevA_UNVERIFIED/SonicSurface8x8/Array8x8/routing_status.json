@@ -1,0 +1,7 @@
+{
+  "engine": "Freerouting 2.5.0 Java, local",
+  "session": "authoring/routed.ses",
+  "status": "Session imported; see authoring/router.log for router completion status",
+  "final_checks": "NOT EXECUTED",
+  "ground": "Explicit routed ground connections supplemented by copper pours"
+}

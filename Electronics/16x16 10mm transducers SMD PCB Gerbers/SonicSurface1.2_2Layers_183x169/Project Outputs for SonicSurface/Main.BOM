@@ -1,0 +1,310 @@
+Bill of Material for 
+On 18/07/2018 at 08:19:54
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               Res 0805 (Vishay)  168    C1_SHIFTERS1, C1_SHIFTERS2   1206, 1210, 0805, 0603, 0402 SMD Capacitor 
+                                           C1_SHIFTERS3, C1_SHIFTERS4
+                                           C1_SHIFTERS5, C1_SHIFTERS6
+                                           C1_SHIFTERS7, C1_SHIFTERS8
+                                           C1_SHIFTERS9, C1_SHIFTERS10
+                                           C1_SHIFTERS11, C1_SHIFTERS12
+                                           C1_SHIFTERS13, C1_SHIFTERS14
+                                           C1_SHIFTERS15, C1_SHIFTERS16
+                                           C1_SHIFTERS17, C1_SHIFTERS18
+                                           C1_SHIFTERS19, C1_SHIFTERS20
+                                           C1_SHIFTERS21, C1_SHIFTERS22
+                                           C1_SHIFTERS23, C1_SHIFTERS24
+                                           C1_SHIFTERS25, C1_SHIFTERS26
+                                           C1_SHIFTERS27, C1_SHIFTERS28
+                                           C1_SHIFTERS29, C1_SHIFTERS30
+                                           C1_SHIFTERS31, C1_SHIFTERS32
+                                           C2_SHIFTERS1, C2_SHIFTERS2
+                                           C2_SHIFTERS3, C2_SHIFTERS4
+                                           C2_SHIFTERS5, C2_SHIFTERS6
+                                           C2_SHIFTERS7, C2_SHIFTERS8
+                                           C2_SHIFTERS9, C2_SHIFTERS10
+                                           C2_SHIFTERS11, C2_SHIFTERS12
+                                           C2_SHIFTERS13, C2_SHIFTERS14
+                                           C2_SHIFTERS15, C2_SHIFTERS16
+                                           C2_SHIFTERS17, C2_SHIFTERS18
+                                           C2_SHIFTERS19, C2_SHIFTERS20
+                                           C2_SHIFTERS21, C2_SHIFTERS22
+                                           C2_SHIFTERS23, C2_SHIFTERS24
+                                           C2_SHIFTERS25, C2_SHIFTERS26
+                                           C2_SHIFTERS27, C2_SHIFTERS28
+                                           C2_SHIFTERS29, C2_SHIFTERS30
+                                           C2_SHIFTERS31, C2_SHIFTERS32
+                                           C3_SHIFTERS1, C3_SHIFTERS2
+                                           C3_SHIFTERS3, C3_SHIFTERS4
+                                           C3_SHIFTERS5, C3_SHIFTERS6
+                                           C3_SHIFTERS7, C3_SHIFTERS8
+                                           C3_SHIFTERS9, C3_SHIFTERS10
+                                           C3_SHIFTERS11, C3_SHIFTERS12
+                                           C3_SHIFTERS13, C3_SHIFTERS14
+                                           C3_SHIFTERS15, C3_SHIFTERS16
+                                           C3_SHIFTERS17, C3_SHIFTERS18
+                                           C3_SHIFTERS19, C3_SHIFTERS20
+                                           C3_SHIFTERS21, C3_SHIFTERS22
+                                           C3_SHIFTERS23, C3_SHIFTERS24
+                                           C3_SHIFTERS25, C3_SHIFTERS26
+                                           C3_SHIFTERS27, C3_SHIFTERS28
+                                           C3_SHIFTERS29, C3_SHIFTERS30
+                                           C3_SHIFTERS31, C3_SHIFTERS32
+                                           C4_SHIFTERS1, C4_SHIFTERS2
+                                           C4_SHIFTERS3, C4_SHIFTERS4
+                                           C4_SHIFTERS5, C4_SHIFTERS6
+                                           C4_SHIFTERS7, C4_SHIFTERS8
+                                           C4_SHIFTERS9, C4_SHIFTERS10
+                                           C4_SHIFTERS11, C4_SHIFTERS12
+                                           C4_SHIFTERS13, C4_SHIFTERS14
+                                           C4_SHIFTERS15, C4_SHIFTERS16
+                                           C4_SHIFTERS17, C4_SHIFTERS18
+                                           C4_SHIFTERS19, C4_SHIFTERS20
+                                           C4_SHIFTERS21, C4_SHIFTERS22
+                                           C4_SHIFTERS23, C4_SHIFTERS24
+                                           C4_SHIFTERS25, C4_SHIFTERS26
+                                           C4_SHIFTERS27, C4_SHIFTERS28
+                                           C4_SHIFTERS29, C4_SHIFTERS30
+                                           C4_SHIFTERS31, C4_SHIFTERS32
+                                           C5, c6, C7, C8, C9, C10, C11
+                                           C12, C13_SHIFTERS1
+                                           C13_SHIFTERS2, C13_SHIFTERS3
+                                           C13_SHIFTERS4, C13_SHIFTERS5
+                                           C13_SHIFTERS6, C13_SHIFTERS7
+                                           C13_SHIFTERS8, C13_SHIFTERS9
+                                           C13_SHIFTERS10
+                                           C13_SHIFTERS11
+                                           C13_SHIFTERS12
+                                           C13_SHIFTERS13
+                                           C13_SHIFTERS14
+                                           C13_SHIFTERS15
+                                           C13_SHIFTERS16
+                                           C13_SHIFTERS17
+                                           C13_SHIFTERS18
+                                           C13_SHIFTERS19
+                                           C13_SHIFTERS20
+                                           C13_SHIFTERS21
+                                           C13_SHIFTERS22
+                                           C13_SHIFTERS23
+                                           C13_SHIFTERS24
+                                           C13_SHIFTERS25
+                                           C13_SHIFTERS26
+                                           C13_SHIFTERS27
+                                           C13_SHIFTERS28
+                                           C13_SHIFTERS29
+                                           C13_SHIFTERS30
+                                           C13_SHIFTERS31
+                                           C13_SHIFTERS32
+ 74HC595             SOIC_E150_16    32    1_SHIFTERS1, 1_SHIFTERS2     74 Series            
+                                           1_SHIFTERS3, 1_SHIFTERS4
+                                           1_SHIFTERS5, 1_SHIFTERS6
+                                           1_SHIFTERS7, 1_SHIFTERS8
+                                           1_SHIFTERS9, 1_SHIFTERS10
+                                           1_SHIFTERS11, 1_SHIFTERS12
+                                           1_SHIFTERS13, 1_SHIFTERS14
+                                           1_SHIFTERS15, 1_SHIFTERS16
+                                           1_SHIFTERS17, 1_SHIFTERS18
+                                           1_SHIFTERS19, 1_SHIFTERS20
+                                           1_SHIFTERS21, 1_SHIFTERS22
+                                           1_SHIFTERS23, 1_SHIFTERS24
+                                           1_SHIFTERS25, 1_SHIFTERS26
+                                           1_SHIFTERS27, 1_SHIFTERS28
+                                           1_SHIFTERS29, 1_SHIFTERS30
+                                           1_SHIFTERS31, 1_SHIFTERS32
+ HEADER-2X2          HEADER-2X2       2    K1, K2                                            
+ HEADER-2X3          HEADER-2X3 - duplicate    2    K3, K4                                            
+ IN-MOSDRV-TC1426CPA-8 SOIC-OA8_L     128    U1_SHIFTERS1, U1_SHIFTERS2                        
+                                           U1_SHIFTERS3, U1_SHIFTERS4
+                                           U1_SHIFTERS5, U1_SHIFTERS6
+                                           U1_SHIFTERS7, U1_SHIFTERS8
+                                           U1_SHIFTERS9, U1_SHIFTERS10
+                                           U1_SHIFTERS11, U1_SHIFTERS12
+                                           U1_SHIFTERS13, U1_SHIFTERS14
+                                           U1_SHIFTERS15, U1_SHIFTERS16
+                                           U1_SHIFTERS17, U1_SHIFTERS18
+                                           U1_SHIFTERS19, U1_SHIFTERS20
+                                           U1_SHIFTERS21, U1_SHIFTERS22
+                                           U1_SHIFTERS23, U1_SHIFTERS24
+                                           U1_SHIFTERS25, U1_SHIFTERS26
+                                           U1_SHIFTERS27, U1_SHIFTERS28
+                                           U1_SHIFTERS29, U1_SHIFTERS30
+                                           U1_SHIFTERS31, U1_SHIFTERS32
+                                           U2_SHIFTERS1, U2_SHIFTERS2
+                                           U2_SHIFTERS3, U2_SHIFTERS4
+                                           U2_SHIFTERS5, U2_SHIFTERS6
+                                           U2_SHIFTERS7, U2_SHIFTERS8
+                                           U2_SHIFTERS9, U2_SHIFTERS10
+                                           U2_SHIFTERS11, U2_SHIFTERS12
+                                           U2_SHIFTERS13, U2_SHIFTERS14
+                                           U2_SHIFTERS15, U2_SHIFTERS16
+                                           U2_SHIFTERS17, U2_SHIFTERS18
+                                           U2_SHIFTERS19, U2_SHIFTERS20
+                                           U2_SHIFTERS21, U2_SHIFTERS22
+                                           U2_SHIFTERS23, U2_SHIFTERS24
+                                           U2_SHIFTERS25, U2_SHIFTERS26
+                                           U2_SHIFTERS27, U2_SHIFTERS28
+                                           U2_SHIFTERS29, U2_SHIFTERS30
+                                           U2_SHIFTERS31, U2_SHIFTERS32
+                                           U3_SHIFTERS1, U3_SHIFTERS2
+                                           U3_SHIFTERS3, U3_SHIFTERS4
+                                           U3_SHIFTERS5, U3_SHIFTERS6
+                                           U3_SHIFTERS7, U3_SHIFTERS8
+                                           U3_SHIFTERS9, U3_SHIFTERS10
+                                           U3_SHIFTERS11, U3_SHIFTERS12
+                                           U3_SHIFTERS13, U3_SHIFTERS14
+                                           U3_SHIFTERS15, U3_SHIFTERS16
+                                           U3_SHIFTERS17, U3_SHIFTERS18
+                                           U3_SHIFTERS19, U3_SHIFTERS20
+                                           U3_SHIFTERS21, U3_SHIFTERS22
+                                           U3_SHIFTERS23, U3_SHIFTERS24
+                                           U3_SHIFTERS25, U3_SHIFTERS26
+                                           U3_SHIFTERS27, U3_SHIFTERS28
+                                           U3_SHIFTERS29, U3_SHIFTERS30
+                                           U3_SHIFTERS31, U3_SHIFTERS32
+                                           U4_SHIFTERS1, U4_SHIFTERS2
+                                           U4_SHIFTERS3, U4_SHIFTERS4
+                                           U4_SHIFTERS5, U4_SHIFTERS6
+                                           U4_SHIFTERS7, U4_SHIFTERS8
+                                           U4_SHIFTERS9, U4_SHIFTERS10
+                                           U4_SHIFTERS11, U4_SHIFTERS12
+                                           U4_SHIFTERS13, U4_SHIFTERS14
+                                           U4_SHIFTERS15, U4_SHIFTERS16
+                                           U4_SHIFTERS17, U4_SHIFTERS18
+                                           U4_SHIFTERS19, U4_SHIFTERS20
+                                           U4_SHIFTERS21, U4_SHIFTERS22
+                                           U4_SHIFTERS23, U4_SHIFTERS24
+                                           U4_SHIFTERS25, U4_SHIFTERS26
+                                           U4_SHIFTERS27, U4_SHIFTERS28
+                                           U4_SHIFTERS29, U4_SHIFTERS30
+                                           U4_SHIFTERS31, U4_SHIFTERS32
+ KYCN-KLDX-0202-B-3  Power Jack       2    J1, J4                                            
+ SSW-123-06-L-D      SMTC-SSW-122-06-X-D    2    J2, J3                       SQ Post Socket, Through-hole, Vertical, -55 to 125 degC, 2.54 mm Pitch, 44-Pin, Female, RoHS 
+ Transducer          Transducer 10mm  256    T1_SHIFTERS1, T1_SHIFTERS2   Transducer           
+                                           T1_SHIFTERS3, T1_SHIFTERS4
+                                           T1_SHIFTERS5, T1_SHIFTERS6
+                                           T1_SHIFTERS7, T1_SHIFTERS8
+                                           T1_SHIFTERS9, T1_SHIFTERS10
+                                           T1_SHIFTERS11, T1_SHIFTERS12
+                                           T1_SHIFTERS13, T1_SHIFTERS14
+                                           T1_SHIFTERS15, T1_SHIFTERS16
+                                           T1_SHIFTERS17, T1_SHIFTERS18
+                                           T1_SHIFTERS19, T1_SHIFTERS20
+                                           T1_SHIFTERS21, T1_SHIFTERS22
+                                           T1_SHIFTERS23, T1_SHIFTERS24
+                                           T1_SHIFTERS25, T1_SHIFTERS26
+                                           T1_SHIFTERS27, T1_SHIFTERS28
+                                           T1_SHIFTERS29, T1_SHIFTERS30
+                                           T1_SHIFTERS31, T1_SHIFTERS32
+                                           T2_SHIFTERS1, T2_SHIFTERS2
+                                           T2_SHIFTERS3, T2_SHIFTERS4
+                                           T2_SHIFTERS5, T2_SHIFTERS6
+                                           T2_SHIFTERS7, T2_SHIFTERS8
+                                           T2_SHIFTERS9, T2_SHIFTERS10
+                                           T2_SHIFTERS11, T2_SHIFTERS12
+                                           T2_SHIFTERS13, T2_SHIFTERS14
+                                           T2_SHIFTERS15, T2_SHIFTERS16
+                                           T2_SHIFTERS17, T2_SHIFTERS18
+                                           T2_SHIFTERS19, T2_SHIFTERS20
+                                           T2_SHIFTERS21, T2_SHIFTERS22
+                                           T2_SHIFTERS23, T2_SHIFTERS24
+                                           T2_SHIFTERS25, T2_SHIFTERS26
+                                           T2_SHIFTERS27, T2_SHIFTERS28
+                                           T2_SHIFTERS29, T2_SHIFTERS30
+                                           T2_SHIFTERS31, T2_SHIFTERS32
+                                           T3_SHIFTERS1, T3_SHIFTERS2
+                                           T3_SHIFTERS3, T3_SHIFTERS4
+                                           T3_SHIFTERS5, T3_SHIFTERS6
+                                           T3_SHIFTERS7, T3_SHIFTERS8
+                                           T3_SHIFTERS9, T3_SHIFTERS10
+                                           T3_SHIFTERS11, T3_SHIFTERS12
+                                           T3_SHIFTERS13, T3_SHIFTERS14
+                                           T3_SHIFTERS15, T3_SHIFTERS16
+                                           T3_SHIFTERS17, T3_SHIFTERS18
+                                           T3_SHIFTERS19, T3_SHIFTERS20
+                                           T3_SHIFTERS21, T3_SHIFTERS22
+                                           T3_SHIFTERS23, T3_SHIFTERS24
+                                           T3_SHIFTERS25, T3_SHIFTERS26
+                                           T3_SHIFTERS27, T3_SHIFTERS28
+                                           T3_SHIFTERS29, T3_SHIFTERS30
+                                           T3_SHIFTERS31, T3_SHIFTERS32
+                                           T4_SHIFTERS1, T4_SHIFTERS2
+                                           T4_SHIFTERS3, T4_SHIFTERS4
+                                           T4_SHIFTERS5, T4_SHIFTERS6
+                                           T4_SHIFTERS7, T4_SHIFTERS8
+                                           T4_SHIFTERS9, T4_SHIFTERS10
+                                           T4_SHIFTERS11, T4_SHIFTERS12
+                                           T4_SHIFTERS13, T4_SHIFTERS14
+                                           T4_SHIFTERS15, T4_SHIFTERS16
+                                           T4_SHIFTERS17, T4_SHIFTERS18
+                                           T4_SHIFTERS19, T4_SHIFTERS20
+                                           T4_SHIFTERS21, T4_SHIFTERS22
+                                           T4_SHIFTERS23, T4_SHIFTERS24
+                                           T4_SHIFTERS25, T4_SHIFTERS26
+                                           T4_SHIFTERS27, T4_SHIFTERS28
+                                           T4_SHIFTERS29, T4_SHIFTERS30
+                                           T4_SHIFTERS31, T4_SHIFTERS32
+                                           T5_SHIFTERS1, T5_SHIFTERS2
+                                           T5_SHIFTERS3, T5_SHIFTERS4
+                                           T5_SHIFTERS5, T5_SHIFTERS6
+                                           T5_SHIFTERS7, T5_SHIFTERS8
+                                           T5_SHIFTERS9, T5_SHIFTERS10
+                                           T5_SHIFTERS11, T5_SHIFTERS12
+                                           T5_SHIFTERS13, T5_SHIFTERS14
+                                           T5_SHIFTERS15, T5_SHIFTERS16
+                                           T5_SHIFTERS17, T5_SHIFTERS18
+                                           T5_SHIFTERS19, T5_SHIFTERS20
+                                           T5_SHIFTERS21, T5_SHIFTERS22
+                                           T5_SHIFTERS23, T5_SHIFTERS24
+                                           T5_SHIFTERS25, T5_SHIFTERS26
+                                           T5_SHIFTERS27, T5_SHIFTERS28
+                                           T5_SHIFTERS29, T5_SHIFTERS30
+                                           T5_SHIFTERS31, T5_SHIFTERS32
+                                           T6_SHIFTERS1, T6_SHIFTERS2
+                                           T6_SHIFTERS3, T6_SHIFTERS4
+                                           T6_SHIFTERS5, T6_SHIFTERS6
+                                           T6_SHIFTERS7, T6_SHIFTERS8
+                                           T6_SHIFTERS9, T6_SHIFTERS10
+                                           T6_SHIFTERS11, T6_SHIFTERS12
+                                           T6_SHIFTERS13, T6_SHIFTERS14
+                                           T6_SHIFTERS15, T6_SHIFTERS16
+                                           T6_SHIFTERS17, T6_SHIFTERS18
+                                           T6_SHIFTERS19, T6_SHIFTERS20
+                                           T6_SHIFTERS21, T6_SHIFTERS22
+                                           T6_SHIFTERS23, T6_SHIFTERS24
+                                           T6_SHIFTERS25, T6_SHIFTERS26
+                                           T6_SHIFTERS27, T6_SHIFTERS28
+                                           T6_SHIFTERS29, T6_SHIFTERS30
+                                           T6_SHIFTERS31, T6_SHIFTERS32
+                                           T7_SHIFTERS1, T7_SHIFTERS2
+                                           T7_SHIFTERS3, T7_SHIFTERS4
+                                           T7_SHIFTERS5, T7_SHIFTERS6
+                                           T7_SHIFTERS7, T7_SHIFTERS8
+                                           T7_SHIFTERS9, T7_SHIFTERS10
+                                           T7_SHIFTERS11, T7_SHIFTERS12
+                                           T7_SHIFTERS13, T7_SHIFTERS14
+                                           T7_SHIFTERS15, T7_SHIFTERS16
+                                           T7_SHIFTERS17, T7_SHIFTERS18
+                                           T7_SHIFTERS19, T7_SHIFTERS20
+                                           T7_SHIFTERS21, T7_SHIFTERS22
+                                           T7_SHIFTERS23, T7_SHIFTERS24
+                                           T7_SHIFTERS25, T7_SHIFTERS26
+                                           T7_SHIFTERS27, T7_SHIFTERS28
+                                           T7_SHIFTERS29, T7_SHIFTERS30
+                                           T7_SHIFTERS31, T7_SHIFTERS32
+                                           T8_SHIFTERS1, T8_SHIFTERS2
+                                           T8_SHIFTERS3, T8_SHIFTERS4
+                                           T8_SHIFTERS5, T8_SHIFTERS6
+                                           T8_SHIFTERS7, T8_SHIFTERS8
+                                           T8_SHIFTERS9, T8_SHIFTERS10
+                                           T8_SHIFTERS11, T8_SHIFTERS12
+                                           T8_SHIFTERS13, T8_SHIFTERS14
+                                           T8_SHIFTERS15, T8_SHIFTERS16
+                                           T8_SHIFTERS17, T8_SHIFTERS18
+                                           T8_SHIFTERS19, T8_SHIFTERS20
+                                           T8_SHIFTERS21, T8_SHIFTERS22
+                                           T8_SHIFTERS23, T8_SHIFTERS24
+                                           T8_SHIFTERS25, T8_SHIFTERS26
+                                           T8_SHIFTERS27, T8_SHIFTERS28
+                                           T8_SHIFTERS29, T8_SHIFTERS30
+                                           T8_SHIFTERS31, T8_SHIFTERS32

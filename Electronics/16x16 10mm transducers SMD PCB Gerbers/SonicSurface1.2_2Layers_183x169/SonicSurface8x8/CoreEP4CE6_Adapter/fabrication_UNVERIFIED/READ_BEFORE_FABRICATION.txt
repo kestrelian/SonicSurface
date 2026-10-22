@@ -1,0 +1,1 @@
+UNVERIFIED REV A. Final ERC, DRC, Gerber review, drill review and manufacturing QA have NOT been executed. These files are design exports, not a fabrication release. Read ../../QA_CHECKLIST.md and ../../DESIGN_NOTES.md before use.

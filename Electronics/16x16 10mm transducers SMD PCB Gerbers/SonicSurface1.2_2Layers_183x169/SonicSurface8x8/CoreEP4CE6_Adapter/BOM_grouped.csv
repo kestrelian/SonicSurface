@@ -1,0 +1,4 @@
+Quantity,Value / part,Footprint,References
+1,CoreEP4CE6 P1 ONLY,SS8:PinSocket_2x22_P2.54mm_Vertical,J1
+1,IDC26 to ARRAY J1,SS8:IDC-Header_2x13_P2.54mm_Vertical,J2
+12,33R source termination,SS8:R_0805_2012Metric,"R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12"
