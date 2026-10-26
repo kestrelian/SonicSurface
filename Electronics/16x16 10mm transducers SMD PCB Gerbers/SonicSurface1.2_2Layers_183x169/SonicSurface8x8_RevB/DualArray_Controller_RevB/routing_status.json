@@ -1,0 +1,7 @@
+{
+  "engine": "Freerouting 2.5.0 Java",
+  "session": "authoring/routed.ses",
+  "authoring_status": "Working copper imported; see authoring/finish_status.json and routing logs",
+  "final_checks": "NOT EXECUTED",
+  "release": "UNVERIFIED - NOT FOR FABRICATION"
+}

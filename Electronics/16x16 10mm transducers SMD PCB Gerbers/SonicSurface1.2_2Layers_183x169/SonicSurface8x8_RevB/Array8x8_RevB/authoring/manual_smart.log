@@ -1,0 +1,27 @@
+Authoring DATA4_RX U50.11 -> J1.11 clusters 2
+Endpoints [(38336275, False)] [(19385472, False), (41282833, False)]
+Saved connection
+Authoring SCLK_RX R28.1 -> J1.19 clusters 2
+Endpoints [(38099953, False)] [(19385066, False), (41282427, False)]
+Search limit
+Endpoints [(16394308, False)] [(19385066, False), (41282427, False)]
+Search limit
+Endpoints [(16394308, False), (38291669, False)] [(19385066, False), (41282427, False)]
+Search limit
+Endpoints [(38291669, False)] [(19385066, False), (41282427, False)]
+Search limit
+Endpoints [(38100107, False)] [(19385066, False), (41282427, False)]
+Search limit
+Endpoints [(17370578, False)] [(19385066, False), (41282427, False)]
+Search limit
+No path in current geometry
+Authoring Q37 R138.1 -> U5.5 clusters 2
+Endpoints [(31021983, False)] [(9673270, False), (31570631, False)]
+Saved connection
+Authoring Q21 R122.1 -> U3.5 clusters 2
+Endpoints [(27263719, False)] [(5915006, False), (27812367, False)]
+Saved connection
+Authoring Q29 U4.5 -> R130.1 clusters 2
+Endpoints [(7794138, False), (29691499, False)] [(29142851, False)]
+Search limit
+Endpoints [(7794138, False), (29691499, False)] [(28996867, False)]

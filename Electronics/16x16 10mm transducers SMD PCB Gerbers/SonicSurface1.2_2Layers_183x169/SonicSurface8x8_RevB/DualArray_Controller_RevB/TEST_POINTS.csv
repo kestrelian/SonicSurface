@@ -1,0 +1,12 @@
+Reference,Net,X mm,Y mm,Side
+TP10,A_OE_N,98.0,82.0,Front
+TP6,VDRV_SAFE,58.0,82.0,Front
+TP11,B_OE_N,108.0,82.0,Front
+TP8,A_SCLK,78.0,82.0,Front
+TP7,CORE_OK,68.0,82.0,Front
+TP4,VPROT,38.0,82.0,Front
+TP2,+3V3,18.0,82.0,Front
+TP1,GND,8.0,82.0,Front
+TP3,VIN,28.0,82.0,Front
+TP5,VREG_16V8,48.0,82.0,Front
+TP9,B_SCLK,88.0,82.0,Front

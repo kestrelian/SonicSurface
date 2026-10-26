@@ -1,0 +1,27 @@
+2026-10-26 10:43:34.869 INFO   Freerouting v2.5.0 (build-date: 2026-10-05)
+2026-10-26 10:43:35.190 INFO   Hardware: 20 CPU cores, 256 CPU score, 2048 MB RAM
+2026-10-26 10:43:35.196 WARN   GUI is disabled and you don't have a console available, so the only feedback from Freerouting is in the log.
+2026-10-26 10:43:36.417 WARN   Could not create HttpClient for VersionChecker: java.io.IOException: Unable to establish loopback connection
+2026-10-26 10:43:36.713 INFO   [A14122\A4F99C] Loading board file 'seed.dsn'...
+2026-10-26 10:43:37.468 WARN   DSN file 'seed.dsn' was loaded with 1 warning(s).
+2026-10-26 10:43:37.549 INFO   [A14122\A4F99C] Job 'A14122\A4F99C' started at 2026-10-26T14:43:37.548647Z.
+2026-10-26 10:43:39.342 INFO   [A14122\A4F99C] Pipeline thread limits: autorouter pass is single-threaded, optimizer.max_threads=1.
+2026-10-26 10:43:40.097 INFO   [A14122\A4F99C] Fanout stage started on board '200d94672882ba6be467a9040cc56793' with 118 of 327 SMD pins needing fanout (203 already connected, 6 netless).
+2026-10-26 10:43:52.084 WARN   BasicBoard.normalizeTraces: reached 2000 iterations for net 'VREG_16V8' — stopping to prevent hang. The board geometry for this net may be oscillating (split/combine cycle); traces are kept as-is and further normalization for this net is suppressed on this board candidate.
+2026-10-26 10:43:52.278 INFO   [A14122\A4F99C] Fanout pass #1 on board '294a9b5b9763226df31310b046ea8d40' completed in 11.99 seconds with 20 SMD pins fanouted, 3 not routed, 0 insert errors, +3 extra vias (0 SMD pins still to check in pass, ripup costs=100).
+2026-10-26 10:43:53.482 INFO   [A14122\A4F99C] Fanout pass #2 on board '294a9b5b9763226df31310b046ea8d40' completed in 1.06 seconds with 18 SMD pins fanouted, 2 not routed, 0 insert errors, +0 extra vias (0 SMD pins still to check in pass, ripup costs=200).
+2026-10-26 10:43:53.633 INFO   [A14122\A4F99C] Fanout stage completed: started with 321 total SMD pins, completed in 13.41 seconds, escaped pins: 315/321 (98.1%), using 13.14 total CPU seconds, 5.33 GB total allocated, and 276.1 MB peak heap usage.
+2026-10-26 10:43:54.549 INFO   [A14122\A4F99C] Auto-routing stage started on board '294a9b5b9763226df31310b046ea8d40' with baseline score 803.55 for 47 unrouted items.
+2026-10-26 10:44:03.788 INFO   Necked retry routed net 'VDRV_SAFE' at 200.0 um trace width.
+2026-10-26 10:44:19.328 INFO   [A14122\A4F99C] Auto-routing pass #1 on board '294a9b5b9763226df31310b046ea8d40' was completed in 23.89 seconds with score 882.97 (28 unrouted and 0 violations), using 38.06 CPU seconds and the job allocated 12.30 GB of memory so far.
+2026-10-26 10:44:39.121 INFO   [A14122\A4F99C] Auto-routing pass #2 on board 'c93370976e7b0640ddd6be9141a39f5f' was completed in 19.04 seconds with score 891.33 (26 unrouted and 0 violations), using 57.30 CPU seconds and the job allocated 17.63 GB of memory so far.
+2026-10-26 10:44:52.762 INFO   [A14122\A4F99C] Auto-routing pass #3 on board '55df40c98472d7524477130a946eae0c' was completed in 13.39 seconds with score 891.33 (26 unrouted and 0 violations), using 69.77 CPU seconds and the job allocated 22.41 GB of memory so far.
+2026-10-26 10:45:04.304 INFO   [A14122\A4F99C] Auto-routing pass #4 on board '6d7b5b098e7c0c6b8a42865163485800' was completed in 11.32 seconds with score 891.33 (26 unrouted and 0 violations), using 81.41 CPU seconds and the job allocated 27.62 GB of memory so far.
+2026-10-26 10:45:15.834 INFO   [A14122\A4F99C] Auto-routing pass #5 on board '17f0a6ffc5235c33821336f0c3c9a146' was completed in 11.26 seconds with score 891.33 (26 unrouted and 0 violations), using 92.98 CPU seconds and the job allocated 32.78 GB of memory so far.
+2026-10-26 10:45:27.669 INFO   [A14122\A4F99C] Auto-routing pass #6 on board '91e1cbc0c22880442cfb9f76a16aa234' was completed in 11.61 seconds with score 891.33 (26 unrouted and 0 violations), using 103.67 CPU seconds and the job allocated 37.49 GB of memory so far.
+2026-10-26 10:45:38.949 INFO   [A14122\A4F99C] Auto-routing pass #7 on board 'c36be48f84633a977e6300e0a1fcab68' was completed in 11.05 seconds with score 891.33 (26 unrouted and 0 violations), using 115.20 CPU seconds and the job allocated 42.73 GB of memory so far.
+2026-10-26 10:45:50.576 INFO   [A14122\A4F99C] Auto-routing pass #8 on board 'abeb4f42a78289eb30eda3bcd5bd0fb0' was completed in 11.40 seconds with score 891.33 (26 unrouted and 0 violations), using 125.72 CPU seconds and the job allocated 47.52 GB of memory so far.
+2026-10-26 10:45:51.069 INFO   [A14122\A4F99C] Auto-routing stage completed: started with 47 unrouted nets, completed in 131.58 seconds, final score: 891.33 (26 unrouted and 0 violations), using 126.69 total CPU seconds, 47.85 GB total allocated, and 363.8 MB peak heap usage.
+2026-10-26 10:45:51.194 INFO   [A14122\A4F99C] Job 'A14122\A4F99C' finished with state: COMPLETED (elapsed: 2 minutes 13.64 seconds, finished at UTC: 2026-10-26T14:45:51.192733300Z).
+2026-10-26 10:45:51.242 INFO   Saving output file 'C:\Users\17818\Desktop\Main\Personal\SonicSurface\Electronics\16x16 10mm transducers SMD PCB Gerbers\SonicSurface1.2_2Layers_183x169\.\SonicSurface8x8_RevB\DualArray_Controller_RevB\authoring\continued.ses' (SES)...
+2026-10-26 10:45:51.249 INFO   Successfully saved output file 'C:\Users\17818\Desktop\Main\Personal\SonicSurface\Electronics\16x16 10mm transducers SMD PCB Gerbers\SonicSurface1.2_2Layers_183x169\.\SonicSurface8x8_RevB\DualArray_Controller_RevB\authoring\continued.ses' (206582 bytes).

@@ -1,0 +1,19 @@
+2026-10-26 10:55:40.989 INFO   Freerouting v2.5.0 (build-date: 2026-10-05)
+2026-10-26 10:55:41.364 INFO   Hardware: 20 CPU cores, 196 CPU score, 3072 MB RAM
+2026-10-26 10:55:41.374 WARN   GUI is disabled and you don't have a console available, so the only feedback from Freerouting is in the log.
+2026-10-26 10:55:42.765 WARN   Could not create HttpClient for VersionChecker: java.io.IOException: Unable to establish loopback connection
+2026-10-26 10:55:43.077 INFO   [4FE8DD\4CEEC4] Loading board file 'seed.dsn'...
+2026-10-26 10:55:45.174 INFO   [4FE8DD\4CEEC4] Job '4FE8DD\4CEEC4' started at 2026-10-26T14:55:45.173145600Z.
+2026-10-26 10:55:48.989 INFO   [4FE8DD\4CEEC4] Pipeline thread limits: autorouter pass is single-threaded, optimizer.max_threads=1.
+2026-10-26 10:55:52.239 INFO   [4FE8DD\4CEEC4] Auto-routing stage started on board '9f55c1bdb3ac8221a9c52a3122a45312' with baseline score 886.26 for 65 unrouted items.
+2026-10-26 10:58:09.712 WARN   BasicBoard.normalizeTraces: reached 2000 iterations for net 'Q21' — stopping to prevent hang. The board geometry for this net may be oscillating (split/combine cycle); traces are kept as-is and further normalization for this net is suppressed on this board candidate.
+2026-10-26 10:59:09.739 INFO   [4FE8DD\4CEEC4] Auto-routing pass #1 on board '9f55c1bdb3ac8221a9c52a3122a45312' was completed in 194.87 seconds with score 909.01 (52 unrouted and 0 violations), using 194.25 CPU seconds and the job allocated 97.56 GB of memory so far.
+2026-10-26 11:01:09.746 INFO   [4FE8DD\4CEEC4] Auto-routing pass #2 on board '5986fcdda19f78272ba0858471b7f4b2' was completed in 118.20 seconds with score 907.26 (53 unrouted and 0 violations), using 311.05 CPU seconds and the job allocated 158.44 GB of memory so far.
+2026-10-26 11:03:26.732 INFO   [4FE8DD\4CEEC4] Auto-routing pass #3 on board 'ee8f0f1c6e8290d2c99e27fe782af41f' was completed in 135.83 seconds with score 907.26 (53 unrouted and 0 violations), using 443.69 CPU seconds and the job allocated 221.72 GB of memory so far.
+2026-10-26 11:06:48.888 INFO   [4FE8DD\4CEEC4] Auto-routing pass #4 on board '9cd8ea40a30ebed644191bf7ca8a90d2' was completed in 200.12 seconds with score 916.01 (48 unrouted and 0 violations), using 641.00 CPU seconds and the job allocated 302.55 GB of memory so far.
+2026-10-26 11:09:24.288 INFO   [4FE8DD\4CEEC4] Auto-routing pass #5 on board '420295f08f2b357d6c8358c39c25f2d1' was completed in 154.06 seconds with score 910.76 (51 unrouted and 0 violations), using 793.11 CPU seconds and the job allocated 366.71 GB of memory so far.
+2026-10-26 11:11:46.144 INFO   [4FE8DD\4CEEC4] Auto-routing pass #6 on board 'd957732e311dca06807bb3b93d3d761c' was completed in 139.95 seconds with score 907.26 (53 unrouted and 0 violations), using 930.81 CPU seconds and the job allocated 428.04 GB of memory so far.
+2026-10-26 11:11:51.993 INFO   [4FE8DD\4CEEC4] Auto-routing stage completed: started with 65 unrouted nets, completed in 961.78 seconds, final score: 916.01 (48 unrouted and 0 violations), using 936.64 total CPU seconds, 429.52 GB total allocated, and 497.7 MB peak heap usage.
+2026-10-26 11:11:52.367 INFO   [4FE8DD\4CEEC4] Job '4FE8DD\4CEEC4' finished with state: COMPLETED (elapsed: 16 minutes 7.19 seconds, finished at UTC: 2026-10-26T15:11:52.363527700Z).
+2026-10-26 11:11:52.408 INFO   Saving output file 'C:\Users\17818\Desktop\Main\Personal\SonicSurface\Electronics\16x16 10mm transducers SMD PCB Gerbers\SonicSurface1.2_2Layers_183x169\.\SonicSurface8x8_RevB\Array8x8_RevB\authoring\continued.ses' (SES)...
+2026-10-26 11:11:52.426 INFO   Successfully saved output file 'C:\Users\17818\Desktop\Main\Personal\SonicSurface\Electronics\16x16 10mm transducers SMD PCB Gerbers\SonicSurface1.2_2Layers_183x169\.\SonicSurface8x8_RevB\Array8x8_RevB\authoring\continued.ses' (535666 bytes).

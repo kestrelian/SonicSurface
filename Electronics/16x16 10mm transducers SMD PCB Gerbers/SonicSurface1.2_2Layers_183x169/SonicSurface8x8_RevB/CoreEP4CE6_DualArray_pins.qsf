@@ -1,0 +1,49 @@
+# Hardware interface only. No firmware or bitstream supplied.
+set_global_assignment -name FAMILY "Cyclone IV E"
+set_global_assignment -name DEVICE EP4CE6E22C8
+set_location_assignment PIN_23 -to CLK_50
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to CLK_50
+set_location_assignment PIN_59 -to {A_DATA[0]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {A_DATA[0]}
+set_location_assignment PIN_64 -to {A_DATA[1]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {A_DATA[1]}
+set_location_assignment PIN_66 -to {A_DATA[2]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {A_DATA[2]}
+set_location_assignment PIN_68 -to {A_DATA[3]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {A_DATA[3]}
+set_location_assignment PIN_70 -to {A_DATA[4]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {A_DATA[4]}
+set_location_assignment PIN_72 -to {A_DATA[5]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {A_DATA[5]}
+set_location_assignment PIN_74 -to {A_DATA[6]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {A_DATA[6]}
+set_location_assignment PIN_76 -to {A_DATA[7]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {A_DATA[7]}
+set_location_assignment PIN_60 -to {B_DATA[0]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {B_DATA[0]}
+set_location_assignment PIN_65 -to {B_DATA[1]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {B_DATA[1]}
+set_location_assignment PIN_67 -to {B_DATA[2]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {B_DATA[2]}
+set_location_assignment PIN_69 -to {B_DATA[3]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {B_DATA[3]}
+set_location_assignment PIN_71 -to {B_DATA[4]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {B_DATA[4]}
+set_location_assignment PIN_73 -to {B_DATA[5]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {B_DATA[5]}
+set_location_assignment PIN_75 -to {B_DATA[6]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {B_DATA[6]}
+set_location_assignment PIN_77 -to {B_DATA[7]}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {B_DATA[7]}
+set_location_assignment PIN_84 -to {SCLK}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {SCLK}
+set_location_assignment PIN_85 -to {LATCH}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {LATCH}
+set_location_assignment PIN_80 -to {A_OE_N}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {A_OE_N}
+set_location_assignment PIN_83 -to {B_OE_N}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {B_OE_N}
+set_location_assignment PIN_86 -to {A_CLR_N}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {A_CLR_N}
+set_location_assignment PIN_87 -to {B_CLR_N}
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to {B_CLR_N}

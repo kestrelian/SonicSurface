@@ -1,0 +1,4435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\17818\Desktop\Main\Personal\SonicSurface\Electronics\16x16 10mm transducers SMD PCB Gerbers\SonicSurface1.2_2Layers_183x169\SonicSurface8x8_RevB\DualArray_Controller_RevB\DualArray_Controller_RevB.kicad_sch</source>
+    <date>2026-10-26T10:48:47</date>
+    <tool>Eeschema 10.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>DualArray_Controller_RevB / main</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>DualArray_Controller_RevB.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Core_01/" tstamps="/18b31a2b-f77b-4fb6-bce6-babffd515e47/">
+      <title_block>
+        <title>DualArray_Controller_RevB / Core_01</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>Core_01.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Core_02/" tstamps="/a3ec22d3-1b88-414b-a251-cf09e8251eee/">
+      <title_block>
+        <title>DualArray_Controller_RevB / Core_02</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>Core_02.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/CableA_01/" tstamps="/d1870ba3-d174-4c1e-9997-01ee370bfb54/">
+      <title_block>
+        <title>DualArray_Controller_RevB / CableA_01</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>CableA_01.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/CableA_02/" tstamps="/99eaffa8-0fca-48d7-b503-c13d220b3527/">
+      <title_block>
+        <title>DualArray_Controller_RevB / CableA_02</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>CableA_02.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/CableA_03/" tstamps="/8f62545e-c0fe-4726-a67b-c1ed3dacffc6/">
+      <title_block>
+        <title>DualArray_Controller_RevB / CableA_03</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>CableA_03.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/CableA_04/" tstamps="/5a51fcca-4274-40a9-a9dd-a110e1eab0e0/">
+      <title_block>
+        <title>DualArray_Controller_RevB / CableA_04</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>CableA_04.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/CableB_01/" tstamps="/a7664f9e-cd27-4494-9517-45ba50109df3/">
+      <title_block>
+        <title>DualArray_Controller_RevB / CableB_01</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>CableB_01.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/CableB_02/" tstamps="/b27a6d17-6bb1-431a-9d01-e548759a89f8/">
+      <title_block>
+        <title>DualArray_Controller_RevB / CableB_02</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>CableB_02.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/CableB_03/" tstamps="/732a32a6-bd06-4072-84a7-c94bb661f1cb/">
+      <title_block>
+        <title>DualArray_Controller_RevB / CableB_03</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>CableB_03.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/CableB_04/" tstamps="/7323d467-dd2d-4d27-80ee-1bf91d355de0/">
+      <title_block>
+        <title>DualArray_Controller_RevB / CableB_04</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>CableB_04.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/Control_01/" tstamps="/ecceb832-2379-459e-8a7a-f43d2ece34dc/">
+      <title_block>
+        <title>DualArray_Controller_RevB / Control_01</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>Control_01.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/Control_02/" tstamps="/50e358b9-0425-402d-8359-81d6442325cd/">
+      <title_block>
+        <title>DualArray_Controller_RevB / Control_02</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>Control_02.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/Core_03/" tstamps="/46f5a34a-2f88-438b-a3d4-755dbb02d919/">
+      <title_block>
+        <title>DualArray_Controller_RevB / Core_03</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>Core_03.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/InputProtection_01/" tstamps="/a007fb5b-c807-4bbb-ac40-1e034945fd2b/">
+      <title_block>
+        <title>DualArray_Controller_RevB / InputProtection_01</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>InputProtection_01.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/InputProtection_02/" tstamps="/ec6b36d2-6841-4f25-99ce-3fccea5039ff/">
+      <title_block>
+        <title>DualArray_Controller_RevB / InputProtection_02</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>InputProtection_02.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="17" name="/BuckBoost_01/" tstamps="/710e6d96-fb10-49aa-87fb-921c68995595/">
+      <title_block>
+        <title>DualArray_Controller_RevB / BuckBoost_01</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>BuckBoost_01.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="18" name="/BuckBoost_02/" tstamps="/51cfda88-bd91-453c-a9e7-54615b4849b0/">
+      <title_block>
+        <title>DualArray_Controller_RevB / BuckBoost_02</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>BuckBoost_02.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="19" name="/BuckBoost_03/" tstamps="/bba511d4-22ac-47d9-b192-5d303c3cfcf6/">
+      <title_block>
+        <title>DualArray_Controller_RevB / BuckBoost_03</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>BuckBoost_03.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="20" name="/OutputProtection_01/" tstamps="/a5425d96-e38a-42d0-b136-8f6c3d72b1a3/">
+      <title_block>
+        <title>DualArray_Controller_RevB / OutputProtection_01</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>OutputProtection_01.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="21" name="/OutputProtection_02/" tstamps="/2d25c28b-65f2-42b6-a216-e522c638d41e/">
+      <title_block>
+        <title>DualArray_Controller_RevB / OutputProtection_02</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>OutputProtection_02.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="22" name="/OutputProtection_03/" tstamps="/31585455-b1e6-4670-9d3f-9a65f8873689/">
+      <title_block>
+        <title>DualArray_Controller_RevB / OutputProtection_03</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>OutputProtection_03.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="23" name="/LogicPower_01/" tstamps="/4ed61150-f499-408e-b46c-e19ffec91d07/">
+      <title_block>
+        <title>DualArray_Controller_RevB / LogicPower_01</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>LogicPower_01.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="24" name="/Test_01/" tstamps="/d5f2673a-5a86-463e-b3a5-c3ade63fa73d/">
+      <title_block>
+        <title>DualArray_Controller_RevB / Test_01</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>Test_01.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="25" name="/Test_02/" tstamps="/327d4681-70d2-4d89-ac36-a2fba36024b0/">
+      <title_block>
+        <title>DualArray_Controller_RevB / Test_02</title>
+        <company/>
+        <rev>B - UNVERIFIED</rev>
+        <date>2026-10-25</date>
+        <source>Test_02.kicad_sch</source>
+        <comment number="1" value="Final verification not executed; see QA_CHECKLIST.md"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C40">
+      <value>100nF 50V X7R</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="Core_01"/>
+      <property name="Sheetfile" value="Core_01.kicad_sch"/>
+      <sheetpath names="/Core_01/" tstamps="/18b31a2b-f77b-4fb6-bce6-babffd515e47/"/>
+      <tstamps>7fccf846-bf33-40fd-acf1-2259f3e9add5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J1">
+      <value>CoreEP4CE6 P1 / POWER PINS ISOLATED</value>
+      <footprint>SS8:PinSocket_2x22_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">SS8:PinSocket_2x22_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="CORE_P1" description=""/>
+      <property name="Sheetname" value="Core_01"/>
+      <property name="Sheetfile" value="Core_01.kicad_sch"/>
+      <sheetpath names="/Core_01/" tstamps="/18b31a2b-f77b-4fb6-bce6-babffd515e47/"/>
+      <tstamps>a89738b0-32ef-4967-ab58-a19e1fd1e0bd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="5"/>
+            <pin num="7"/>
+            <pin num="9"/>
+            <pin num="11"/>
+            <pin num="13"/>
+            <pin num="15"/>
+            <pin num="17"/>
+            <pin num="19"/>
+            <pin num="21"/>
+            <pin num="23"/>
+            <pin num="25"/>
+            <pin num="27"/>
+            <pin num="29"/>
+            <pin num="31"/>
+            <pin num="33"/>
+            <pin num="35"/>
+            <pin num="37"/>
+            <pin num="39"/>
+            <pin num="41"/>
+            <pin num="43"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="6"/>
+            <pin num="8"/>
+            <pin num="10"/>
+            <pin num="12"/>
+            <pin num="14"/>
+            <pin num="16"/>
+            <pin num="18"/>
+            <pin num="20"/>
+            <pin num="22"/>
+            <pin num="24"/>
+            <pin num="26"/>
+            <pin num="28"/>
+            <pin num="30"/>
+            <pin num="32"/>
+            <pin num="34"/>
+            <pin num="36"/>
+            <pin num="38"/>
+            <pin num="40"/>
+            <pin num="42"/>
+            <pin num="44"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R40">
+      <value>10k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Core_01"/>
+      <property name="Sheetfile" value="Core_01.kicad_sch"/>
+      <sheetpath names="/Core_01/" tstamps="/18b31a2b-f77b-4fb6-bce6-babffd515e47/"/>
+      <tstamps>45737687-0706-46e3-baec-a6a510a592a7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R90">
+      <value>64.9k 0.1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Core_01"/>
+      <property name="Sheetfile" value="Core_01.kicad_sch"/>
+      <sheetpath names="/Core_01/" tstamps="/18b31a2b-f77b-4fb6-bce6-babffd515e47/"/>
+      <tstamps>4a97a3fe-e2bf-4697-86d7-12872232b679</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R91">
+      <value>10k 0.1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Core_01"/>
+      <property name="Sheetfile" value="Core_01.kicad_sch"/>
+      <sheetpath names="/Core_01/" tstamps="/18b31a2b-f77b-4fb6-bce6-babffd515e47/"/>
+      <tstamps>ebaae766-4f70-4c1c-8710-97bbfc0af861</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U4">
+      <value>TPS3808G01DBVR</value>
+      <footprint>SS8:SOT-23-6</footprint>
+      <fields>
+        <field name="Footprint">SS8:SOT-23-6</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="SUP" description=""/>
+      <property name="Sheetname" value="Core_01"/>
+      <property name="Sheetfile" value="Core_01.kicad_sch"/>
+      <sheetpath names="/Core_01/" tstamps="/18b31a2b-f77b-4fb6-bce6-babffd515e47/"/>
+      <tstamps>27872918-bdfe-4a46-8c1e-cce8c201ae80</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="6"/>
+            <pin num="2"/>
+            <pin num="5"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C5">
+      <value>100nF 50V X7R</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="Core_02"/>
+      <property name="Sheetfile" value="Core_02.kicad_sch"/>
+      <sheetpath names="/Core_02/" tstamps="/a3ec22d3-1b88-414b-a251-cf09e8251eee/"/>
+      <tstamps>2801d523-87e7-4da3-a4fd-cc5db2fc211e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R120">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Core_02"/>
+      <property name="Sheetfile" value="Core_02.kicad_sch"/>
+      <sheetpath names="/Core_02/" tstamps="/a3ec22d3-1b88-414b-a251-cf09e8251eee/"/>
+      <tstamps>436fc07b-dbbd-48c8-886d-ffb19347e2d3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R121">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Core_02"/>
+      <property name="Sheetfile" value="Core_02.kicad_sch"/>
+      <sheetpath names="/Core_02/" tstamps="/a3ec22d3-1b88-414b-a251-cf09e8251eee/"/>
+      <tstamps>f2f328bf-4942-4cf2-b16b-658b3e70040f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R122">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Core_02"/>
+      <property name="Sheetfile" value="Core_02.kicad_sch"/>
+      <sheetpath names="/Core_02/" tstamps="/a3ec22d3-1b88-414b-a251-cf09e8251eee/"/>
+      <tstamps>7f96d3d1-a40b-4de3-a39a-d803caa4ceb8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R123">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Core_02"/>
+      <property name="Sheetfile" value="Core_02.kicad_sch"/>
+      <sheetpath names="/Core_02/" tstamps="/a3ec22d3-1b88-414b-a251-cf09e8251eee/"/>
+      <tstamps>1a18cdd9-5c24-4df5-b7cf-2cd4dda7d0ab</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U5">
+      <value>SN74LVC1G04DBVR</value>
+      <footprint>SS8:SOT-23-5</footprint>
+      <fields>
+        <field name="Footprint">SS8:SOT-23-5</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="INV" description=""/>
+      <property name="Sheetname" value="Core_02"/>
+      <property name="Sheetfile" value="Core_02.kicad_sch"/>
+      <sheetpath names="/Core_02/" tstamps="/a3ec22d3-1b88-414b-a251-cf09e8251eee/"/>
+      <tstamps>e25fe434-5d49-4984-9adf-606c2c63d528</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="5"/>
+            <pin num="4"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C10">
+      <value>100nF 50V X7R</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="CableA_01"/>
+      <property name="Sheetfile" value="CableA_01.kicad_sch"/>
+      <sheetpath names="/CableA_01/" tstamps="/d1870ba3-d174-4c1e-9997-01ee370bfb54/"/>
+      <tstamps>c060df93-30b2-443a-87c2-19753abeba36</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J2">
+      <value>KEYED IDC26 / ARRAY A</value>
+      <footprint>SS8:IDC-Header_2x13_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">SS8:IDC-Header_2x13_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="IDC26" description=""/>
+      <property name="Sheetname" value="CableA_01"/>
+      <property name="Sheetfile" value="CableA_01.kicad_sch"/>
+      <sheetpath names="/CableA_01/" tstamps="/d1870ba3-d174-4c1e-9997-01ee370bfb54/"/>
+      <tstamps>af3dbb98-5a8b-4734-a311-c010a1b333c7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="5"/>
+            <pin num="7"/>
+            <pin num="9"/>
+            <pin num="11"/>
+            <pin num="13"/>
+            <pin num="15"/>
+            <pin num="17"/>
+            <pin num="19"/>
+            <pin num="21"/>
+            <pin num="23"/>
+            <pin num="25"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="6"/>
+            <pin num="8"/>
+            <pin num="10"/>
+            <pin num="12"/>
+            <pin num="14"/>
+            <pin num="16"/>
+            <pin num="18"/>
+            <pin num="20"/>
+            <pin num="22"/>
+            <pin num="24"/>
+            <pin num="26"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R1">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_01"/>
+      <property name="Sheetfile" value="CableA_01.kicad_sch"/>
+      <sheetpath names="/CableA_01/" tstamps="/d1870ba3-d174-4c1e-9997-01ee370bfb54/"/>
+      <tstamps>5017a5a5-a6d2-4bac-8080-71dde723f4fa</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R2">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_01"/>
+      <property name="Sheetfile" value="CableA_01.kicad_sch"/>
+      <sheetpath names="/CableA_01/" tstamps="/d1870ba3-d174-4c1e-9997-01ee370bfb54/"/>
+      <tstamps>256b51bd-7c3e-4a3f-adb3-01f712940b3e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R101">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_01"/>
+      <property name="Sheetfile" value="CableA_01.kicad_sch"/>
+      <sheetpath names="/CableA_01/" tstamps="/d1870ba3-d174-4c1e-9997-01ee370bfb54/"/>
+      <tstamps>262f5874-95df-4395-be88-aa9eb4fb189f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U1">
+      <value>SN74LVC244APW / Ioff</value>
+      <footprint>SS8:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TSSOP-20_4.4x6.5mm_P0.65mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="LVC244" description=""/>
+      <property name="Sheetname" value="CableA_01"/>
+      <property name="Sheetfile" value="CableA_01.kicad_sch"/>
+      <sheetpath names="/CableA_01/" tstamps="/d1870ba3-d174-4c1e-9997-01ee370bfb54/"/>
+      <tstamps>e06a4e13-ae2a-4d00-b358-b87039cf2b47</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="20"/>
+            <pin num="10"/>
+            <pin num="1"/>
+            <pin num="19"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="6"/>
+            <pin num="8"/>
+            <pin num="11"/>
+            <pin num="13"/>
+            <pin num="15"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="16"/>
+            <pin num="14"/>
+            <pin num="12"/>
+            <pin num="9"/>
+            <pin num="7"/>
+            <pin num="5"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R3">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_02"/>
+      <property name="Sheetfile" value="CableA_02.kicad_sch"/>
+      <sheetpath names="/CableA_02/" tstamps="/99eaffa8-0fca-48d7-b503-c13d220b3527/"/>
+      <tstamps>4a958d2c-38f5-4d86-a7bd-246954a59ca1</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R4">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_02"/>
+      <property name="Sheetfile" value="CableA_02.kicad_sch"/>
+      <sheetpath names="/CableA_02/" tstamps="/99eaffa8-0fca-48d7-b503-c13d220b3527/"/>
+      <tstamps>b6e1a11b-ba20-477e-89e5-027fc433fb08</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R5">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_02"/>
+      <property name="Sheetfile" value="CableA_02.kicad_sch"/>
+      <sheetpath names="/CableA_02/" tstamps="/99eaffa8-0fca-48d7-b503-c13d220b3527/"/>
+      <tstamps>7062ffda-9a35-4db8-a6ca-78c30f811dfa</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R102">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_02"/>
+      <property name="Sheetfile" value="CableA_02.kicad_sch"/>
+      <sheetpath names="/CableA_02/" tstamps="/99eaffa8-0fca-48d7-b503-c13d220b3527/"/>
+      <tstamps>edc11a70-9175-4246-9622-1d6805fb258a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R103">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_02"/>
+      <property name="Sheetfile" value="CableA_02.kicad_sch"/>
+      <sheetpath names="/CableA_02/" tstamps="/99eaffa8-0fca-48d7-b503-c13d220b3527/"/>
+      <tstamps>3dc8b80f-8ce9-4421-b935-304ba8e0cb8b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R104">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_02"/>
+      <property name="Sheetfile" value="CableA_02.kicad_sch"/>
+      <sheetpath names="/CableA_02/" tstamps="/99eaffa8-0fca-48d7-b503-c13d220b3527/"/>
+      <tstamps>58f8d7d2-2041-45c5-b8c8-30fa53d4ce24</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R6">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_03"/>
+      <property name="Sheetfile" value="CableA_03.kicad_sch"/>
+      <sheetpath names="/CableA_03/" tstamps="/8f62545e-c0fe-4726-a67b-c1ed3dacffc6/"/>
+      <tstamps>20e91c82-df4a-43d8-9ce8-4c9f0c789722</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R7">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_03"/>
+      <property name="Sheetfile" value="CableA_03.kicad_sch"/>
+      <sheetpath names="/CableA_03/" tstamps="/8f62545e-c0fe-4726-a67b-c1ed3dacffc6/"/>
+      <tstamps>6b109460-64eb-43a0-9ab5-900c47fb110c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R8">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_03"/>
+      <property name="Sheetfile" value="CableA_03.kicad_sch"/>
+      <sheetpath names="/CableA_03/" tstamps="/8f62545e-c0fe-4726-a67b-c1ed3dacffc6/"/>
+      <tstamps>1cb88257-14c1-4430-9362-b0fcb437f5a9</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R105">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_03"/>
+      <property name="Sheetfile" value="CableA_03.kicad_sch"/>
+      <sheetpath names="/CableA_03/" tstamps="/8f62545e-c0fe-4726-a67b-c1ed3dacffc6/"/>
+      <tstamps>6ded0351-5cf0-4731-b8a5-06bedb38288e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R106">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_03"/>
+      <property name="Sheetfile" value="CableA_03.kicad_sch"/>
+      <sheetpath names="/CableA_03/" tstamps="/8f62545e-c0fe-4726-a67b-c1ed3dacffc6/"/>
+      <tstamps>bba2b2a5-4c46-4371-9ed1-7e4002257779</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R107">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_03"/>
+      <property name="Sheetfile" value="CableA_03.kicad_sch"/>
+      <sheetpath names="/CableA_03/" tstamps="/8f62545e-c0fe-4726-a67b-c1ed3dacffc6/"/>
+      <tstamps>ac525abd-2088-47f1-9157-7d5401665383</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R108">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableA_04"/>
+      <property name="Sheetfile" value="CableA_04.kicad_sch"/>
+      <sheetpath names="/CableA_04/" tstamps="/5a51fcca-4274-40a9-a9dd-a110e1eab0e0/"/>
+      <tstamps>3b6f5bff-e432-4f76-86e3-49a4b8a7fa2a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C20">
+      <value>100nF 50V X7R</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="CableB_01"/>
+      <property name="Sheetfile" value="CableB_01.kicad_sch"/>
+      <sheetpath names="/CableB_01/" tstamps="/a7664f9e-cd27-4494-9517-45ba50109df3/"/>
+      <tstamps>69b1a873-e6f8-44b6-9a9f-37967a3ccaa8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J3">
+      <value>KEYED IDC26 / ARRAY B</value>
+      <footprint>SS8:IDC-Header_2x13_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="Footprint">SS8:IDC-Header_2x13_P2.54mm_Vertical</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="IDC26" description=""/>
+      <property name="Sheetname" value="CableB_01"/>
+      <property name="Sheetfile" value="CableB_01.kicad_sch"/>
+      <sheetpath names="/CableB_01/" tstamps="/a7664f9e-cd27-4494-9517-45ba50109df3/"/>
+      <tstamps>b5bb6740-1c88-4c9c-b2bf-f9f838dbb407</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="3"/>
+            <pin num="5"/>
+            <pin num="7"/>
+            <pin num="9"/>
+            <pin num="11"/>
+            <pin num="13"/>
+            <pin num="15"/>
+            <pin num="17"/>
+            <pin num="19"/>
+            <pin num="21"/>
+            <pin num="23"/>
+            <pin num="25"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="6"/>
+            <pin num="8"/>
+            <pin num="10"/>
+            <pin num="12"/>
+            <pin num="14"/>
+            <pin num="16"/>
+            <pin num="18"/>
+            <pin num="20"/>
+            <pin num="22"/>
+            <pin num="24"/>
+            <pin num="26"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R9">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_01"/>
+      <property name="Sheetfile" value="CableB_01.kicad_sch"/>
+      <sheetpath names="/CableB_01/" tstamps="/a7664f9e-cd27-4494-9517-45ba50109df3/"/>
+      <tstamps>0b32e0c9-4f13-4262-a01f-912daba65525</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R10">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_01"/>
+      <property name="Sheetfile" value="CableB_01.kicad_sch"/>
+      <sheetpath names="/CableB_01/" tstamps="/a7664f9e-cd27-4494-9517-45ba50109df3/"/>
+      <tstamps>9af6e52b-bace-4acc-b392-d5838827c3b4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R109">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_01"/>
+      <property name="Sheetfile" value="CableB_01.kicad_sch"/>
+      <sheetpath names="/CableB_01/" tstamps="/a7664f9e-cd27-4494-9517-45ba50109df3/"/>
+      <tstamps>bf0edbdd-d0bf-4348-9f33-172581ad393a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U2">
+      <value>SN74LVC244APW / Ioff</value>
+      <footprint>SS8:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TSSOP-20_4.4x6.5mm_P0.65mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="LVC244" description=""/>
+      <property name="Sheetname" value="CableB_01"/>
+      <property name="Sheetfile" value="CableB_01.kicad_sch"/>
+      <sheetpath names="/CableB_01/" tstamps="/a7664f9e-cd27-4494-9517-45ba50109df3/"/>
+      <tstamps>cce032b3-93cf-4108-ab74-fdbcd5f98c02</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="20"/>
+            <pin num="10"/>
+            <pin num="1"/>
+            <pin num="19"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="6"/>
+            <pin num="8"/>
+            <pin num="11"/>
+            <pin num="13"/>
+            <pin num="15"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="16"/>
+            <pin num="14"/>
+            <pin num="12"/>
+            <pin num="9"/>
+            <pin num="7"/>
+            <pin num="5"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R11">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_02"/>
+      <property name="Sheetfile" value="CableB_02.kicad_sch"/>
+      <sheetpath names="/CableB_02/" tstamps="/b27a6d17-6bb1-431a-9d01-e548759a89f8/"/>
+      <tstamps>e3d85879-7992-421c-84a9-1b88fd2c4013</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R12">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_02"/>
+      <property name="Sheetfile" value="CableB_02.kicad_sch"/>
+      <sheetpath names="/CableB_02/" tstamps="/b27a6d17-6bb1-431a-9d01-e548759a89f8/"/>
+      <tstamps>248e77fe-5913-4705-bb2f-0cdc931d858d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R13">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_02"/>
+      <property name="Sheetfile" value="CableB_02.kicad_sch"/>
+      <sheetpath names="/CableB_02/" tstamps="/b27a6d17-6bb1-431a-9d01-e548759a89f8/"/>
+      <tstamps>85e373f0-b3ac-4b65-a9d9-e28a0142319c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R110">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_02"/>
+      <property name="Sheetfile" value="CableB_02.kicad_sch"/>
+      <sheetpath names="/CableB_02/" tstamps="/b27a6d17-6bb1-431a-9d01-e548759a89f8/"/>
+      <tstamps>777e11b5-9505-4b81-95bf-2a6d8e3f8658</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R111">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_02"/>
+      <property name="Sheetfile" value="CableB_02.kicad_sch"/>
+      <sheetpath names="/CableB_02/" tstamps="/b27a6d17-6bb1-431a-9d01-e548759a89f8/"/>
+      <tstamps>69b55686-1f78-42c1-8559-c03926664e01</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R112">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_02"/>
+      <property name="Sheetfile" value="CableB_02.kicad_sch"/>
+      <sheetpath names="/CableB_02/" tstamps="/b27a6d17-6bb1-431a-9d01-e548759a89f8/"/>
+      <tstamps>333e5058-c952-475a-b080-4014a493ab23</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R14">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_03"/>
+      <property name="Sheetfile" value="CableB_03.kicad_sch"/>
+      <sheetpath names="/CableB_03/" tstamps="/732a32a6-bd06-4072-84a7-c94bb661f1cb/"/>
+      <tstamps>f536533a-83bf-4c7b-a487-047aa8aa0399</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R15">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_03"/>
+      <property name="Sheetfile" value="CableB_03.kicad_sch"/>
+      <sheetpath names="/CableB_03/" tstamps="/732a32a6-bd06-4072-84a7-c94bb661f1cb/"/>
+      <tstamps>a8f630a2-d950-472c-ae2e-5e7c6d6e752a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R16">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_03"/>
+      <property name="Sheetfile" value="CableB_03.kicad_sch"/>
+      <sheetpath names="/CableB_03/" tstamps="/732a32a6-bd06-4072-84a7-c94bb661f1cb/"/>
+      <tstamps>210d72b0-aeb7-48fe-91a5-6151ff31347b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R113">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_03"/>
+      <property name="Sheetfile" value="CableB_03.kicad_sch"/>
+      <sheetpath names="/CableB_03/" tstamps="/732a32a6-bd06-4072-84a7-c94bb661f1cb/"/>
+      <tstamps>f1089dcc-b796-4016-bc38-18c41437a003</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R114">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_03"/>
+      <property name="Sheetfile" value="CableB_03.kicad_sch"/>
+      <sheetpath names="/CableB_03/" tstamps="/732a32a6-bd06-4072-84a7-c94bb661f1cb/"/>
+      <tstamps>9dcbfaad-99aa-4903-9942-d96a53b2a3af</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R115">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_03"/>
+      <property name="Sheetfile" value="CableB_03.kicad_sch"/>
+      <sheetpath names="/CableB_03/" tstamps="/732a32a6-bd06-4072-84a7-c94bb661f1cb/"/>
+      <tstamps>205d26ad-ef50-4bc5-9d1b-e8abba4ff251</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R116">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="CableB_04"/>
+      <property name="Sheetfile" value="CableB_04.kicad_sch"/>
+      <sheetpath names="/CableB_04/" tstamps="/7323d467-dd2d-4d27-80ee-1bf91d355de0/"/>
+      <tstamps>5fb99577-a7d2-4597-bf76-914ea0e90df7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C30">
+      <value>100nF 50V X7R</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="Control_01"/>
+      <property name="Sheetfile" value="Control_01.kicad_sch"/>
+      <sheetpath names="/Control_01/" tstamps="/ecceb832-2379-459e-8a7a-f43d2ece34dc/"/>
+      <tstamps>0d13a062-6884-4582-8c7e-7e6fd2c4490e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R17">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Control_01"/>
+      <property name="Sheetfile" value="Control_01.kicad_sch"/>
+      <sheetpath names="/Control_01/" tstamps="/ecceb832-2379-459e-8a7a-f43d2ece34dc/"/>
+      <tstamps>7dfeba6c-f134-42ee-8b93-fd0a63626bfc</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R18">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Control_01"/>
+      <property name="Sheetfile" value="Control_01.kicad_sch"/>
+      <sheetpath names="/Control_01/" tstamps="/ecceb832-2379-459e-8a7a-f43d2ece34dc/"/>
+      <tstamps>af94ab34-fb62-40c7-ae71-9942899e5beb</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R19">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Control_01"/>
+      <property name="Sheetfile" value="Control_01.kicad_sch"/>
+      <sheetpath names="/Control_01/" tstamps="/ecceb832-2379-459e-8a7a-f43d2ece34dc/"/>
+      <tstamps>e17783c2-69f3-4336-9f19-10cf5a43944e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R20">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Control_01"/>
+      <property name="Sheetfile" value="Control_01.kicad_sch"/>
+      <sheetpath names="/Control_01/" tstamps="/ecceb832-2379-459e-8a7a-f43d2ece34dc/"/>
+      <tstamps>3f9aa72c-eeef-47d4-8c25-d934ee6a4a1e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U3">
+      <value>SN74LVC244APW / Ioff</value>
+      <footprint>SS8:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TSSOP-20_4.4x6.5mm_P0.65mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="LVC244" description=""/>
+      <property name="Sheetname" value="Control_01"/>
+      <property name="Sheetfile" value="Control_01.kicad_sch"/>
+      <sheetpath names="/Control_01/" tstamps="/ecceb832-2379-459e-8a7a-f43d2ece34dc/"/>
+      <tstamps>23bd43d4-9884-41bb-968c-f1e10537faed</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="20"/>
+            <pin num="10"/>
+            <pin num="1"/>
+            <pin num="19"/>
+            <pin num="2"/>
+            <pin num="4"/>
+            <pin num="6"/>
+            <pin num="8"/>
+            <pin num="11"/>
+            <pin num="13"/>
+            <pin num="15"/>
+            <pin num="17"/>
+            <pin num="18"/>
+            <pin num="16"/>
+            <pin num="14"/>
+            <pin num="12"/>
+            <pin num="9"/>
+            <pin num="7"/>
+            <pin num="5"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R21">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Control_02"/>
+      <property name="Sheetfile" value="Control_02.kicad_sch"/>
+      <sheetpath names="/Control_02/" tstamps="/50e358b9-0425-402d-8359-81d6442325cd/"/>
+      <tstamps>c235c7ec-06f7-4779-bf69-93496917924d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R22">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Control_02"/>
+      <property name="Sheetfile" value="Control_02.kicad_sch"/>
+      <sheetpath names="/Control_02/" tstamps="/50e358b9-0425-402d-8359-81d6442325cd/"/>
+      <tstamps>394d7dd2-4cf5-45a4-a169-873e3dc3cc94</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R23">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Control_02"/>
+      <property name="Sheetfile" value="Control_02.kicad_sch"/>
+      <sheetpath names="/Control_02/" tstamps="/50e358b9-0425-402d-8359-81d6442325cd/"/>
+      <tstamps>0eea6f08-ee5f-41d3-8556-c361d02e6841</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R24">
+      <value>33R source</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Control_02"/>
+      <property name="Sheetfile" value="Control_02.kicad_sch"/>
+      <sheetpath names="/Control_02/" tstamps="/50e358b9-0425-402d-8359-81d6442325cd/"/>
+      <tstamps>da27ae15-a115-465a-9650-6b8cbc8a0a3a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R92">
+      <value>10k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Control_02"/>
+      <property name="Sheetfile" value="Control_02.kicad_sch"/>
+      <sheetpath names="/Control_02/" tstamps="/50e358b9-0425-402d-8359-81d6442325cd/"/>
+      <tstamps>c4a5f63c-329a-401b-b788-f3522d06b278</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R93">
+      <value>10k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Control_02"/>
+      <property name="Sheetfile" value="Control_02.kicad_sch"/>
+      <sheetpath names="/Control_02/" tstamps="/50e358b9-0425-402d-8359-81d6442325cd/"/>
+      <tstamps>2dd45c0f-bdc0-464b-9bee-07a0d2d4f93d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R124">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Core_03"/>
+      <property name="Sheetfile" value="Core_03.kicad_sch"/>
+      <sheetpath names="/Core_03/" tstamps="/46f5a34a-2f88-438b-a3d4-755dbb02d919/"/>
+      <tstamps>871c1d76-5708-4cd8-943d-258f7e991380</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R125">
+      <value>100k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="Core_03"/>
+      <property name="Sheetfile" value="Core_03.kicad_sch"/>
+      <sheetpath names="/Core_03/" tstamps="/46f5a34a-2f88-438b-a3d4-755dbb02d919/"/>
+      <tstamps>7313a6de-d8bd-45a2-83f0-1d8400b8a8d8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="F1">
+      <value>0451002.MRL / 2A 125V</value>
+      <footprint>SS8:Fuse_Littelfuse-NANO2-451_453</footprint>
+      <fields>
+        <field name="Footprint">SS8:Fuse_Littelfuse-NANO2-451_453</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="FUSE" description=""/>
+      <property name="Sheetname" value="InputProtection_01"/>
+      <property name="Sheetfile" value="InputProtection_01.kicad_sch"/>
+      <sheetpath names="/InputProtection_01/" tstamps="/a007fb5b-c807-4bbb-ac40-1e034945fd2b/"/>
+      <tstamps>f5b7f23b-59d1-4005-81d7-ea5cc111f1b5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J4">
+      <value>17-20V DC INPUT</value>
+      <footprint>SS8:FP_910b6471cdf1</footprint>
+      <fields>
+        <field name="Footprint">SS8:FP_910b6471cdf1</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="POWER" description=""/>
+      <property name="Sheetname" value="InputProtection_01"/>
+      <property name="Sheetfile" value="InputProtection_01.kicad_sch"/>
+      <sheetpath names="/InputProtection_01/" tstamps="/a007fb5b-c807-4bbb-ac40-1e034945fd2b/"/>
+      <tstamps>13899c45-d58d-4488-8471-a6daeb399e44</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R200">
+      <value>121k 0.1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="InputProtection_01"/>
+      <property name="Sheetfile" value="InputProtection_01.kicad_sch"/>
+      <sheetpath names="/InputProtection_01/" tstamps="/a007fb5b-c807-4bbb-ac40-1e034945fd2b/"/>
+      <tstamps>db3c4adb-81d7-4c31-a077-7f3215bf20f6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R201">
+      <value>10k 0.1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="InputProtection_01"/>
+      <property name="Sheetfile" value="InputProtection_01.kicad_sch"/>
+      <sheetpath names="/InputProtection_01/" tstamps="/a007fb5b-c807-4bbb-ac40-1e034945fd2b/"/>
+      <tstamps>e5b0b509-c8e7-4fc5-8531-2ff1930f9f59</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R202">
+      <value>178k 0.1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="InputProtection_01"/>
+      <property name="Sheetfile" value="InputProtection_01.kicad_sch"/>
+      <sheetpath names="/InputProtection_01/" tstamps="/a007fb5b-c807-4bbb-ac40-1e034945fd2b/"/>
+      <tstamps>6a09fbec-ca17-4acc-87f5-759ed98c182d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U10">
+      <value>TPS26600PWPR</value>
+      <footprint>SS8:FP_eae3e738c928</footprint>
+      <fields>
+        <field name="Footprint">SS8:FP_eae3e738c928</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="EFUSE" description=""/>
+      <property name="Sheetname" value="InputProtection_01"/>
+      <property name="Sheetfile" value="InputProtection_01.kicad_sch"/>
+      <sheetpath names="/InputProtection_01/" tstamps="/a007fb5b-c807-4bbb-ac40-1e034945fd2b/"/>
+      <tstamps>2b6e44ce-9d00-4065-ab06-edf6414107ac</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="17"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="12"/>
+            <pin num="13"/>
+            <pin num="14"/>
+            <pin num="15"/>
+            <pin num="16"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C200">
+      <value>100nF 50V X7R</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="InputProtection_02"/>
+      <property name="Sheetfile" value="InputProtection_02.kicad_sch"/>
+      <sheetpath names="/InputProtection_02/" tstamps="/ec6b36d2-6841-4f25-99ce-3fccea5039ff/"/>
+      <tstamps>40802cdd-8cd3-485e-919d-8a6a6a1f8de8</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C201">
+      <value>100nF 50V X7R</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="InputProtection_02"/>
+      <property name="Sheetfile" value="InputProtection_02.kicad_sch"/>
+      <sheetpath names="/InputProtection_02/" tstamps="/ec6b36d2-6841-4f25-99ce-3fccea5039ff/"/>
+      <tstamps>1aeca898-bdcc-406d-816a-ed9d378f98da</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C202">
+      <value>10uF 50V X7R</value>
+      <footprint>SS8:C_1210_3225Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_1210_3225Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="InputProtection_02"/>
+      <property name="Sheetfile" value="InputProtection_02.kicad_sch"/>
+      <sheetpath names="/InputProtection_02/" tstamps="/ec6b36d2-6841-4f25-99ce-3fccea5039ff/"/>
+      <tstamps>9675a7b5-11f6-41ee-ad6a-e9a3235b94f4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R203">
+      <value>10k 0.1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="InputProtection_02"/>
+      <property name="Sheetfile" value="InputProtection_02.kicad_sch"/>
+      <sheetpath names="/InputProtection_02/" tstamps="/ec6b36d2-6841-4f25-99ce-3fccea5039ff/"/>
+      <tstamps>28f2c143-ac57-47c9-9ede-b559a010140a</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R204">
+      <value>8.06k 1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="InputProtection_02"/>
+      <property name="Sheetfile" value="InputProtection_02.kicad_sch"/>
+      <sheetpath names="/InputProtection_02/" tstamps="/ec6b36d2-6841-4f25-99ce-3fccea5039ff/"/>
+      <tstamps>9e321b46-cd97-4e3b-9e05-982528a27e98</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R205">
+      <value>10k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="InputProtection_02"/>
+      <property name="Sheetfile" value="InputProtection_02.kicad_sch"/>
+      <sheetpath names="/InputProtection_02/" tstamps="/ec6b36d2-6841-4f25-99ce-3fccea5039ff/"/>
+      <tstamps>b1b3a674-aa67-41f7-8b56-f5a74cd10093</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C210">
+      <value>100nF 50V X7R</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="BuckBoost_01"/>
+      <property name="Sheetfile" value="BuckBoost_01.kicad_sch"/>
+      <sheetpath names="/BuckBoost_01/" tstamps="/710e6d96-fb10-49aa-87fb-921c68995595/"/>
+      <tstamps>1fcb7a1e-c162-4994-a593-c82a47a90d97</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C211">
+      <value>100nF 50V X7R</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="BuckBoost_01"/>
+      <property name="Sheetfile" value="BuckBoost_01.kicad_sch"/>
+      <sheetpath names="/BuckBoost_01/" tstamps="/710e6d96-fb10-49aa-87fb-921c68995595/"/>
+      <tstamps>e717f3a4-d760-4d44-b3d2-d1058d82ee5c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C212">
+      <value>4.7uF 10V X7R</value>
+      <footprint>SS8:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="BuckBoost_01"/>
+      <property name="Sheetfile" value="BuckBoost_01.kicad_sch"/>
+      <sheetpath names="/BuckBoost_01/" tstamps="/710e6d96-fb10-49aa-87fb-921c68995595/"/>
+      <tstamps>4c57475a-1e68-4d34-981b-eeba1acdc047</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C213">
+      <value>100nF 50V X7R</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="BuckBoost_01"/>
+      <property name="Sheetfile" value="BuckBoost_01.kicad_sch"/>
+      <sheetpath names="/BuckBoost_01/" tstamps="/710e6d96-fb10-49aa-87fb-921c68995595/"/>
+      <tstamps>3293ac07-426a-429f-af03-b6423057ec75</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="L1">
+      <value>15uH MSS1048-153MLB</value>
+      <footprint>SS8:L_Coilcraft_MSS1048-XXX</footprint>
+      <fields>
+        <field name="Footprint">SS8:L_Coilcraft_MSS1048-XXX</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="L" description=""/>
+      <property name="Sheetname" value="BuckBoost_01"/>
+      <property name="Sheetfile" value="BuckBoost_01.kicad_sch"/>
+      <sheetpath names="/BuckBoost_01/" tstamps="/710e6d96-fb10-49aa-87fb-921c68995595/"/>
+      <tstamps>c7e06363-aaf1-4fda-9437-985ce4ce69ff</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U11">
+      <value>LTC3115IFE-1#PBF</value>
+      <footprint>SS8:FP_e5b083f4a3ae</footprint>
+      <fields>
+        <field name="Footprint">SS8:FP_e5b083f4a3ae</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="BUCKBOOST" description=""/>
+      <property name="Sheetname" value="BuckBoost_01"/>
+      <property name="Sheetfile" value="BuckBoost_01.kicad_sch"/>
+      <sheetpath names="/BuckBoost_01/" tstamps="/710e6d96-fb10-49aa-87fb-921c68995595/"/>
+      <tstamps>402a63ff-625b-4483-90e7-9d25c449276e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="8"/>
+            <pin num="9"/>
+            <pin num="10"/>
+            <pin num="11"/>
+            <pin num="13"/>
+            <pin num="17"/>
+            <pin num="19"/>
+            <pin num="20"/>
+            <pin num="21"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="7"/>
+            <pin num="12"/>
+            <pin num="14"/>
+            <pin num="15"/>
+            <pin num="16"/>
+            <pin num="18"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C214">
+      <value>10uF 50V X7R</value>
+      <footprint>SS8:C_1210_3225Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_1210_3225Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="BuckBoost_02"/>
+      <property name="Sheetfile" value="BuckBoost_02.kicad_sch"/>
+      <sheetpath names="/BuckBoost_02/" tstamps="/51cfda88-bd91-453c-a9e7-54615b4849b0/"/>
+      <tstamps>7e4d31eb-6f35-44ac-b203-8ef658d4c0ad</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C215">
+      <value>22uF 50V X7R</value>
+      <footprint>SS8:C_1210_3225Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_1210_3225Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="BuckBoost_02"/>
+      <property name="Sheetfile" value="BuckBoost_02.kicad_sch"/>
+      <sheetpath names="/BuckBoost_02/" tstamps="/51cfda88-bd91-453c-a9e7-54615b4849b0/"/>
+      <tstamps>727a6293-987f-4260-bb17-4c7bc3ef002e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C216">
+      <value>22uF 50V X7R</value>
+      <footprint>SS8:C_1210_3225Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_1210_3225Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="BuckBoost_02"/>
+      <property name="Sheetfile" value="BuckBoost_02.kicad_sch"/>
+      <sheetpath names="/BuckBoost_02/" tstamps="/51cfda88-bd91-453c-a9e7-54615b4849b0/"/>
+      <tstamps>3fd10273-0a46-412f-b5ab-43d8fadf2bba</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C217">
+      <value>8.2nF C0G</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="BuckBoost_02"/>
+      <property name="Sheetfile" value="BuckBoost_02.kicad_sch"/>
+      <sheetpath names="/BuckBoost_02/" tstamps="/51cfda88-bd91-453c-a9e7-54615b4849b0/"/>
+      <tstamps>8e9d0d8c-7ac8-43a3-bd8d-b32926ca2b68</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C218">
+      <value>150pF C0G</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="BuckBoost_02"/>
+      <property name="Sheetfile" value="BuckBoost_02.kicad_sch"/>
+      <sheetpath names="/BuckBoost_02/" tstamps="/51cfda88-bd91-453c-a9e7-54615b4849b0/"/>
+      <tstamps>2d35df3f-00d8-4692-be7d-4536730dbc35</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R210">
+      <value>158k 0.1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="BuckBoost_02"/>
+      <property name="Sheetfile" value="BuckBoost_02.kicad_sch"/>
+      <sheetpath names="/BuckBoost_02/" tstamps="/51cfda88-bd91-453c-a9e7-54615b4849b0/"/>
+      <tstamps>9d9377df-c68d-44ae-ab9a-02c58bfee056</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C219">
+      <value>1nF C0G</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="BuckBoost_03"/>
+      <property name="Sheetfile" value="BuckBoost_03.kicad_sch"/>
+      <sheetpath names="/BuckBoost_03/" tstamps="/bba511d4-22ac-47d9-b192-5d303c3cfcf6/"/>
+      <tstamps>83aebc7f-73e1-4ad5-8406-5fe06ddf7247</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C222">
+      <value>470uF 35V low ESR</value>
+      <footprint>SS8:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:CP_Radial_D10.0mm_P5.00mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="CP" description=""/>
+      <property name="Sheetname" value="BuckBoost_03"/>
+      <property name="Sheetfile" value="BuckBoost_03.kicad_sch"/>
+      <sheetpath names="/BuckBoost_03/" tstamps="/bba511d4-22ac-47d9-b192-5d303c3cfcf6/"/>
+      <tstamps>3f6e4312-92c5-498a-a4e6-3a0c406ca6c7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R211">
+      <value>10k 0.1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="BuckBoost_03"/>
+      <property name="Sheetfile" value="BuckBoost_03.kicad_sch"/>
+      <sheetpath names="/BuckBoost_03/" tstamps="/bba511d4-22ac-47d9-b192-5d303c3cfcf6/"/>
+      <tstamps>26c5f7e5-c95c-4785-9c60-6cc452dfeebf</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R212">
+      <value>47.5k 1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="BuckBoost_03"/>
+      <property name="Sheetfile" value="BuckBoost_03.kicad_sch"/>
+      <sheetpath names="/BuckBoost_03/" tstamps="/bba511d4-22ac-47d9-b192-5d303c3cfcf6/"/>
+      <tstamps>af340c59-7682-42b2-bcf7-c1b80afe21eb</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R213">
+      <value>18k 1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="BuckBoost_03"/>
+      <property name="Sheetfile" value="BuckBoost_03.kicad_sch"/>
+      <sheetpath names="/BuckBoost_03/" tstamps="/bba511d4-22ac-47d9-b192-5d303c3cfcf6/"/>
+      <tstamps>0706757a-dc4b-49f1-a25c-c3c8505dc7d1</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R214">
+      <value>2.67k 1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="BuckBoost_03"/>
+      <property name="Sheetfile" value="BuckBoost_03.kicad_sch"/>
+      <sheetpath names="/BuckBoost_03/" tstamps="/bba511d4-22ac-47d9-b192-5d303c3cfcf6/"/>
+      <tstamps>2fc38d03-3bb3-4517-8fc3-5fd52c93f777</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="Q1">
+      <value>Si9945CDY-T1-GE3</value>
+      <footprint>SS8:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:SOIC-8_3.9x4.9mm_P1.27mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="DUALMOS" description=""/>
+      <property name="Sheetname" value="OutputProtection_01"/>
+      <property name="Sheetfile" value="OutputProtection_01.kicad_sch"/>
+      <sheetpath names="/OutputProtection_01/" tstamps="/a5425d96-e38a-42d0-b136-8f6c3d72b1a3/"/>
+      <tstamps>7e1b9690-b7f6-4357-99ec-cdf509a859c4</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R220">
+      <value>290k 0.1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="OutputProtection_01"/>
+      <property name="Sheetfile" value="OutputProtection_01.kicad_sch"/>
+      <sheetpath names="/OutputProtection_01/" tstamps="/a5425d96-e38a-42d0-b136-8f6c3d72b1a3/"/>
+      <tstamps>df1f6a6b-09d0-4c8b-bcf3-332c38d95b16</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R221">
+      <value>10k 0.1%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="OutputProtection_01"/>
+      <property name="Sheetfile" value="OutputProtection_01.kicad_sch"/>
+      <sheetpath names="/OutputProtection_01/" tstamps="/a5425d96-e38a-42d0-b136-8f6c3d72b1a3/"/>
+      <tstamps>b90aafca-d86c-413a-811f-76440263509c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R222">
+      <value>340k 0.01%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="OutputProtection_01"/>
+      <property name="Sheetfile" value="OutputProtection_01.kicad_sch"/>
+      <sheetpath names="/OutputProtection_01/" tstamps="/a5425d96-e38a-42d0-b136-8f6c3d72b1a3/"/>
+      <tstamps>0ba1f8ad-7a38-4112-8738-63c8bf140962</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R223">
+      <value>10k 0.01%</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="OutputProtection_01"/>
+      <property name="Sheetfile" value="OutputProtection_01.kicad_sch"/>
+      <sheetpath names="/OutputProtection_01/" tstamps="/a5425d96-e38a-42d0-b136-8f6c3d72b1a3/"/>
+      <tstamps>b92db832-7b2f-49e7-8dca-1f6501c385f0</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U12">
+      <value>LTC4365ITS8#PBF</value>
+      <footprint>SS8:TSOT-23-8</footprint>
+      <fields>
+        <field name="Footprint">SS8:TSOT-23-8</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="OVCUT" description=""/>
+      <property name="Sheetname" value="OutputProtection_01"/>
+      <property name="Sheetfile" value="OutputProtection_01.kicad_sch"/>
+      <sheetpath names="/OutputProtection_01/" tstamps="/a5425d96-e38a-42d0-b136-8f6c3d72b1a3/"/>
+      <tstamps>c34d1b2f-1d8a-467a-b880-cdf7766703b7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+            <pin num="4"/>
+            <pin num="5"/>
+            <pin num="6"/>
+            <pin num="7"/>
+            <pin num="8"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C220">
+      <value>47nF 50V X7R</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="OutputProtection_02"/>
+      <property name="Sheetfile" value="OutputProtection_02.kicad_sch"/>
+      <sheetpath names="/OutputProtection_02/" tstamps="/2d25c28b-65f2-42b6-a216-e522c638d41e/"/>
+      <tstamps>c3e5d06d-93ec-4400-8776-17c8c334a468</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C221">
+      <value>470uF 35V low ESR</value>
+      <footprint>SS8:CP_Radial_D10.0mm_P5.00mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:CP_Radial_D10.0mm_P5.00mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="CP" description=""/>
+      <property name="Sheetname" value="OutputProtection_02"/>
+      <property name="Sheetfile" value="OutputProtection_02.kicad_sch"/>
+      <sheetpath names="/OutputProtection_02/" tstamps="/2d25c28b-65f2-42b6-a216-e522c638d41e/"/>
+      <tstamps>77622875-ae6f-4b4c-ad2d-3cb1e661c1f6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="F2">
+      <value>0451.750MRL / 750mA 125V</value>
+      <footprint>SS8:Fuse_Littelfuse-NANO2-451_453</footprint>
+      <fields>
+        <field name="Footprint">SS8:Fuse_Littelfuse-NANO2-451_453</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="FUSE" description=""/>
+      <property name="Sheetname" value="OutputProtection_02"/>
+      <property name="Sheetfile" value="OutputProtection_02.kicad_sch"/>
+      <sheetpath names="/OutputProtection_02/" tstamps="/2d25c28b-65f2-42b6-a216-e522c638d41e/"/>
+      <tstamps>7119c497-4d51-4fba-92f9-142255a78988</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="F3">
+      <value>0451.750MRL / 750mA 125V</value>
+      <footprint>SS8:Fuse_Littelfuse-NANO2-451_453</footprint>
+      <fields>
+        <field name="Footprint">SS8:Fuse_Littelfuse-NANO2-451_453</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="FUSE" description=""/>
+      <property name="Sheetname" value="OutputProtection_02"/>
+      <property name="Sheetfile" value="OutputProtection_02.kicad_sch"/>
+      <sheetpath names="/OutputProtection_02/" tstamps="/2d25c28b-65f2-42b6-a216-e522c638d41e/"/>
+      <tstamps>c36bb237-7e79-4238-ba16-bbbb1d723643</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J5">
+      <value>16.8V POWER ARRAY A</value>
+      <footprint>SS8:FP_910b6471cdf1</footprint>
+      <fields>
+        <field name="Footprint">SS8:FP_910b6471cdf1</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="POWER" description=""/>
+      <property name="Sheetname" value="OutputProtection_02"/>
+      <property name="Sheetfile" value="OutputProtection_02.kicad_sch"/>
+      <sheetpath names="/OutputProtection_02/" tstamps="/2d25c28b-65f2-42b6-a216-e522c638d41e/"/>
+      <tstamps>dfe50f5c-f930-4d7e-ba2b-61451664d1a7</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R224">
+      <value>10k</value>
+      <footprint>SS8:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="OutputProtection_02"/>
+      <property name="Sheetfile" value="OutputProtection_02.kicad_sch"/>
+      <sheetpath names="/OutputProtection_02/" tstamps="/2d25c28b-65f2-42b6-a216-e522c638d41e/"/>
+      <tstamps>c3abf2ee-ed37-433a-bc14-9d1218d44de6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="J6">
+      <value>16.8V POWER ARRAY B</value>
+      <footprint>SS8:FP_910b6471cdf1</footprint>
+      <fields>
+        <field name="Footprint">SS8:FP_910b6471cdf1</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="POWER" description=""/>
+      <property name="Sheetname" value="OutputProtection_03"/>
+      <property name="Sheetfile" value="OutputProtection_03.kicad_sch"/>
+      <sheetpath names="/OutputProtection_03/" tstamps="/31585455-b1e6-4670-9d3f-9a65f8873689/"/>
+      <tstamps>6203c55c-73bd-4347-b07d-2a6fc7b62a03</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R225">
+      <value>10k 0.25W</value>
+      <footprint>SS8:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="OutputProtection_03"/>
+      <property name="Sheetfile" value="OutputProtection_03.kicad_sch"/>
+      <sheetpath names="/OutputProtection_03/" tstamps="/31585455-b1e6-4670-9d3f-9a65f8873689/"/>
+      <tstamps>f6fad973-2275-42ee-9f5d-1e620d440e7b</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C230">
+      <value>10uF 50V X7R</value>
+      <footprint>SS8:C_1210_3225Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_1210_3225Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="LogicPower_01"/>
+      <property name="Sheetfile" value="LogicPower_01.kicad_sch"/>
+      <sheetpath names="/LogicPower_01/" tstamps="/4ed61150-f499-408e-b46c-e19ffec91d07/"/>
+      <tstamps>d9c8e0a4-83b7-4bf5-8ae6-e363f444f65c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C231">
+      <value>10uF 10V X7R</value>
+      <footprint>SS8:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="LogicPower_01"/>
+      <property name="Sheetfile" value="LogicPower_01.kicad_sch"/>
+      <sheetpath names="/LogicPower_01/" tstamps="/4ed61150-f499-408e-b46c-e19ffec91d07/"/>
+      <tstamps>54734543-6126-4bc5-90ed-2cef4e83ff30</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="C232">
+      <value>100nF 50V X7R</value>
+      <footprint>SS8:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:C_0603_1608Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="C" description=""/>
+      <property name="Sheetname" value="LogicPower_01"/>
+      <property name="Sheetfile" value="LogicPower_01.kicad_sch"/>
+      <sheetpath names="/LogicPower_01/" tstamps="/4ed61150-f499-408e-b46c-e19ffec91d07/"/>
+      <tstamps>326d2962-cad5-4a34-87d2-ad03b510dd38</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="R230">
+      <value>330R 0.125W minimum load</value>
+      <footprint>SS8:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="Footprint">SS8:R_0805_2012Metric</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="R" description=""/>
+      <property name="Sheetname" value="LogicPower_01"/>
+      <property name="Sheetfile" value="LogicPower_01.kicad_sch"/>
+      <sheetpath names="/LogicPower_01/" tstamps="/4ed61150-f499-408e-b46c-e19ffec91d07/"/>
+      <tstamps>e15ac26e-216d-4f84-b0fb-ccec91ecbaa6</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="U13">
+      <value>R-78E3.3-0.5</value>
+      <footprint>SS8:Converter_DCDC_RECOM_R-78E-0.5_THT</footprint>
+      <fields>
+        <field name="Footprint">SS8:Converter_DCDC_RECOM_R-78E-0.5_THT</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="REG33" description=""/>
+      <property name="Sheetname" value="LogicPower_01"/>
+      <property name="Sheetfile" value="LogicPower_01.kicad_sch"/>
+      <sheetpath names="/LogicPower_01/" tstamps="/4ed61150-f499-408e-b46c-e19ffec91d07/"/>
+      <tstamps>f27fec71-1ba6-4e9a-bd57-87f480a4c5f5</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+            <pin num="2"/>
+            <pin num="3"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP1">
+      <value>GND</value>
+      <footprint>SS8:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TestPoint_Pad_D1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="TP" description=""/>
+      <property name="Sheetname" value="Test_01"/>
+      <property name="Sheetfile" value="Test_01.kicad_sch"/>
+      <sheetpath names="/Test_01/" tstamps="/d5f2673a-5a86-463e-b3a5-c3ade63fa73d/"/>
+      <tstamps>6a4cdcb3-70b4-4ef3-8e9a-eb76c46bcfd3</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP2">
+      <value>+3V3</value>
+      <footprint>SS8:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TestPoint_Pad_D1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="TP" description=""/>
+      <property name="Sheetname" value="Test_01"/>
+      <property name="Sheetfile" value="Test_01.kicad_sch"/>
+      <sheetpath names="/Test_01/" tstamps="/d5f2673a-5a86-463e-b3a5-c3ade63fa73d/"/>
+      <tstamps>0a03cbaa-57eb-4670-ae70-4d6c812b685e</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP3">
+      <value>VIN</value>
+      <footprint>SS8:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TestPoint_Pad_D1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="TP" description=""/>
+      <property name="Sheetname" value="Test_01"/>
+      <property name="Sheetfile" value="Test_01.kicad_sch"/>
+      <sheetpath names="/Test_01/" tstamps="/d5f2673a-5a86-463e-b3a5-c3ade63fa73d/"/>
+      <tstamps>2daba94f-0983-436b-913e-95815d3042e1</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP4">
+      <value>VPROT</value>
+      <footprint>SS8:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TestPoint_Pad_D1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="TP" description=""/>
+      <property name="Sheetname" value="Test_01"/>
+      <property name="Sheetfile" value="Test_01.kicad_sch"/>
+      <sheetpath names="/Test_01/" tstamps="/d5f2673a-5a86-463e-b3a5-c3ade63fa73d/"/>
+      <tstamps>746e6012-3411-4ec0-9fd8-40143dd74d45</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP5">
+      <value>VREG_16V8</value>
+      <footprint>SS8:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TestPoint_Pad_D1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="TP" description=""/>
+      <property name="Sheetname" value="Test_01"/>
+      <property name="Sheetfile" value="Test_01.kicad_sch"/>
+      <sheetpath names="/Test_01/" tstamps="/d5f2673a-5a86-463e-b3a5-c3ade63fa73d/"/>
+      <tstamps>1db3403d-3767-4279-91d2-53948044eb0d</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP6">
+      <value>VDRV_SAFE</value>
+      <footprint>SS8:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TestPoint_Pad_D1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="TP" description=""/>
+      <property name="Sheetname" value="Test_01"/>
+      <property name="Sheetfile" value="Test_01.kicad_sch"/>
+      <sheetpath names="/Test_01/" tstamps="/d5f2673a-5a86-463e-b3a5-c3ade63fa73d/"/>
+      <tstamps>996b42f3-7d17-43fc-bc7b-f26c14c78726</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP7">
+      <value>CORE_OK</value>
+      <footprint>SS8:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TestPoint_Pad_D1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="TP" description=""/>
+      <property name="Sheetname" value="Test_02"/>
+      <property name="Sheetfile" value="Test_02.kicad_sch"/>
+      <sheetpath names="/Test_02/" tstamps="/327d4681-70d2-4d89-ac36-a2fba36024b0/"/>
+      <tstamps>b3aa04e6-6796-43bb-990b-a64b9c045d2c</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP8">
+      <value>A_SCLK</value>
+      <footprint>SS8:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TestPoint_Pad_D1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="TP" description=""/>
+      <property name="Sheetname" value="Test_02"/>
+      <property name="Sheetfile" value="Test_02.kicad_sch"/>
+      <sheetpath names="/Test_02/" tstamps="/327d4681-70d2-4d89-ac36-a2fba36024b0/"/>
+      <tstamps>920cc906-281f-4415-90f5-587ca4d86dcd</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP9">
+      <value>B_SCLK</value>
+      <footprint>SS8:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TestPoint_Pad_D1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="TP" description=""/>
+      <property name="Sheetname" value="Test_02"/>
+      <property name="Sheetfile" value="Test_02.kicad_sch"/>
+      <sheetpath names="/Test_02/" tstamps="/327d4681-70d2-4d89-ac36-a2fba36024b0/"/>
+      <tstamps>b76b9e56-e68b-4e4f-99e1-eb308335a701</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP10">
+      <value>A_OE_N</value>
+      <footprint>SS8:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TestPoint_Pad_D1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="TP" description=""/>
+      <property name="Sheetname" value="Test_02"/>
+      <property name="Sheetfile" value="Test_02.kicad_sch"/>
+      <sheetpath names="/Test_02/" tstamps="/327d4681-70d2-4d89-ac36-a2fba36024b0/"/>
+      <tstamps>240067a7-fd35-47ab-a499-e3ef8306949f</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+    <comp ref="TP11">
+      <value>B_OE_N</value>
+      <footprint>SS8:TestPoint_Pad_D1.5mm</footprint>
+      <fields>
+        <field name="Footprint">SS8:TestPoint_Pad_D1.5mm</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="SS8" part="TP" description=""/>
+      <property name="Sheetname" value="Test_02"/>
+      <property name="Sheetfile" value="Test_02.kicad_sch"/>
+      <sheetpath names="/Test_02/" tstamps="/327d4681-70d2-4d89-ac36-a2fba36024b0/"/>
+      <tstamps>ae36a017-28d2-45e4-bb0e-a0653b4ec336</tstamps>
+      <units>
+        <unit name="A">
+          <pins>
+            <pin num="1"/>
+          </pins>
+        </unit>
+      </units>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="SS8" part="BUCKBOOST">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">BUCKBOOST</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="PGND" type="power_in"/>
+        <pin num="2" name="RUN" type="input"/>
+        <pin num="3" name="SW2" type="passive"/>
+        <pin num="4" name="PVOUT" type="power_out"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="VC" type="passive"/>
+        <pin num="8" name="FB" type="input"/>
+        <pin num="9" name="RT" type="passive"/>
+        <pin num="10" name="PGND" type="power_in"/>
+        <pin num="11" name="PGND" type="power_in"/>
+        <pin num="12" name="VCC" type="power_out"/>
+        <pin num="13" name="VIN" type="power_in"/>
+        <pin num="14" name="PVCC" type="power_out"/>
+        <pin num="15" name="BST2" type="passive"/>
+        <pin num="16" name="BST1" type="passive"/>
+        <pin num="17" name="PVIN" type="power_in"/>
+        <pin num="18" name="SW1" type="passive"/>
+        <pin num="19" name="PWM_SYNC" type="input"/>
+        <pin num="20" name="PGND" type="power_in"/>
+        <pin num="21" name="EP_PGND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="C">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">C</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="CORE_P1">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CORE_P1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="P1_1" type="passive"/>
+        <pin num="2" name="P1_2" type="passive"/>
+        <pin num="3" name="P1_3" type="passive"/>
+        <pin num="4" name="P1_4" type="passive"/>
+        <pin num="5" name="P1_5" type="passive"/>
+        <pin num="6" name="P1_6" type="passive"/>
+        <pin num="7" name="P1_7" type="passive"/>
+        <pin num="8" name="P1_8" type="passive"/>
+        <pin num="9" name="P1_9" type="passive"/>
+        <pin num="10" name="P1_10" type="passive"/>
+        <pin num="11" name="P1_11" type="passive"/>
+        <pin num="12" name="P1_12" type="passive"/>
+        <pin num="13" name="P1_13" type="passive"/>
+        <pin num="14" name="P1_14" type="passive"/>
+        <pin num="15" name="P1_15" type="passive"/>
+        <pin num="16" name="P1_16" type="passive"/>
+        <pin num="17" name="P1_17" type="passive"/>
+        <pin num="18" name="P1_18" type="passive"/>
+        <pin num="19" name="P1_19" type="passive"/>
+        <pin num="20" name="P1_20" type="passive"/>
+        <pin num="21" name="P1_21" type="passive"/>
+        <pin num="22" name="P1_22" type="passive"/>
+        <pin num="23" name="P1_23" type="passive"/>
+        <pin num="24" name="P1_24" type="passive"/>
+        <pin num="25" name="P1_25" type="passive"/>
+        <pin num="26" name="P1_26" type="passive"/>
+        <pin num="27" name="P1_27" type="passive"/>
+        <pin num="28" name="P1_28" type="passive"/>
+        <pin num="29" name="P1_29" type="passive"/>
+        <pin num="30" name="P1_30" type="passive"/>
+        <pin num="31" name="P1_31" type="passive"/>
+        <pin num="32" name="P1_32" type="passive"/>
+        <pin num="33" name="P1_33" type="passive"/>
+        <pin num="34" name="P1_34" type="passive"/>
+        <pin num="35" name="P1_35" type="passive"/>
+        <pin num="36" name="P1_36" type="passive"/>
+        <pin num="37" name="P1_37" type="passive"/>
+        <pin num="38" name="P1_38" type="passive"/>
+        <pin num="39" name="P1_39" type="passive"/>
+        <pin num="40" name="P1_40" type="passive"/>
+        <pin num="41" name="P1_41" type="passive"/>
+        <pin num="42" name="P1_42" type="passive"/>
+        <pin num="43" name="P1_43" type="passive"/>
+        <pin num="44" name="P1_44" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="CP">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">CP</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="DUALMOS">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DUALMOS</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="S1" type="passive"/>
+        <pin num="2" name="G1" type="input"/>
+        <pin num="3" name="S2" type="passive"/>
+        <pin num="4" name="G2" type="input"/>
+        <pin num="5" name="D2" type="passive"/>
+        <pin num="6" name="D2" type="passive"/>
+        <pin num="7" name="D1" type="passive"/>
+        <pin num="8" name="D1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="EFUSE">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">EFUSE</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="IN" type="power_in"/>
+        <pin num="3" name="UVLO" type="input"/>
+        <pin num="4" name="NC" type="no_connect"/>
+        <pin num="5" name="OVP" type="input"/>
+        <pin num="6" name="MODE" type="input"/>
+        <pin num="7" name="SHDN_N" type="input"/>
+        <pin num="8" name="RTN" type="power_in"/>
+        <pin num="9" name="GND" type="power_in"/>
+        <pin num="10" name="IMON" type="output"/>
+        <pin num="11" name="ILIM" type="passive"/>
+        <pin num="12" name="dVdT" type="passive"/>
+        <pin num="13" name="NC" type="no_connect"/>
+        <pin num="14" name="FLT_N" type="open_collector"/>
+        <pin num="15" name="OUT" type="power_out"/>
+        <pin num="16" name="OUT" type="power_out"/>
+        <pin num="17" name="EP_RTN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="FUSE">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FUSE</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="IDC26">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IDC26</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="PIN_1" type="passive"/>
+        <pin num="2" name="PIN_2" type="passive"/>
+        <pin num="3" name="PIN_3" type="passive"/>
+        <pin num="4" name="PIN_4" type="passive"/>
+        <pin num="5" name="PIN_5" type="passive"/>
+        <pin num="6" name="PIN_6" type="passive"/>
+        <pin num="7" name="PIN_7" type="passive"/>
+        <pin num="8" name="PIN_8" type="passive"/>
+        <pin num="9" name="PIN_9" type="passive"/>
+        <pin num="10" name="PIN_10" type="passive"/>
+        <pin num="11" name="PIN_11" type="passive"/>
+        <pin num="12" name="PIN_12" type="passive"/>
+        <pin num="13" name="PIN_13" type="passive"/>
+        <pin num="14" name="PIN_14" type="passive"/>
+        <pin num="15" name="PIN_15" type="passive"/>
+        <pin num="16" name="PIN_16" type="passive"/>
+        <pin num="17" name="PIN_17" type="passive"/>
+        <pin num="18" name="PIN_18" type="passive"/>
+        <pin num="19" name="PIN_19" type="passive"/>
+        <pin num="20" name="PIN_20" type="passive"/>
+        <pin num="21" name="PIN_21" type="passive"/>
+        <pin num="22" name="PIN_22" type="passive"/>
+        <pin num="23" name="PIN_23" type="passive"/>
+        <pin num="24" name="PIN_24" type="passive"/>
+        <pin num="25" name="PIN_25" type="passive"/>
+        <pin num="26" name="PIN_26" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="INV">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">INV</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="no_connect"/>
+        <pin num="2" name="A" type="input"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="Y" type="output"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="L">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="LVC244">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LVC244</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="OE1_N" type="input"/>
+        <pin num="2" name="A0" type="input"/>
+        <pin num="3" name="Y7" type="tri_state"/>
+        <pin num="4" name="A1" type="input"/>
+        <pin num="5" name="Y6" type="tri_state"/>
+        <pin num="6" name="A2" type="input"/>
+        <pin num="7" name="Y5" type="tri_state"/>
+        <pin num="8" name="A3" type="input"/>
+        <pin num="9" name="Y4" type="tri_state"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="A4" type="input"/>
+        <pin num="12" name="Y3" type="tri_state"/>
+        <pin num="13" name="A5" type="input"/>
+        <pin num="14" name="Y2" type="tri_state"/>
+        <pin num="15" name="A6" type="input"/>
+        <pin num="16" name="Y1" type="tri_state"/>
+        <pin num="17" name="A7" type="input"/>
+        <pin num="18" name="Y0" type="tri_state"/>
+        <pin num="19" name="OE2_N" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="OVCUT">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OVCUT</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="UV" type="input"/>
+        <pin num="3" name="OV" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SHDN_N" type="input"/>
+        <pin num="6" name="FAULT_N" type="open_collector"/>
+        <pin num="7" name="VOUT" type="power_in"/>
+        <pin num="8" name="GATE" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="POWER">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">POWER</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="R">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">R</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="REG33">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">REG33</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="SUP">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SUP</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="RESET_N" type="open_collector"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="MR_N" type="input"/>
+        <pin num="4" name="CT" type="passive"/>
+        <pin num="5" name="SENSE" type="input"/>
+        <pin num="6" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SS8" part="TP">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TP</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="TEST" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="SS8">
+      <uri>${KIPRJMOD}/SS8.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3V3" class="Power,Default">
+      <node ref="C10" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C20" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C231" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C232" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C30" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C40" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C5" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="PIN_1_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="PIN_1_1" pintype="passive"/>
+      <node ref="R224" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R230" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R40" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R92" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R93" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="TEST_1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="VCC_20" pintype="power_in"/>
+      <node ref="U13" pin="3" pinfunction="VOUT_3" pintype="power_out"/>
+      <node ref="U2" pin="20" pinfunction="VCC_20" pintype="power_in"/>
+      <node ref="U3" pin="20" pinfunction="VCC_20" pintype="power_in"/>
+      <node ref="U4" pin="3" pinfunction="MR_N_3" pintype="input"/>
+      <node ref="U4" pin="6" pinfunction="VDD_6" pintype="power_in"/>
+      <node ref="U5" pin="5" pinfunction="VCC_5" pintype="power_in"/>
+    </net>
+    <net code="2" name="A_CLR_N" class="Default">
+      <node ref="J2" pin="25" pinfunction="PIN_25_25" pintype="passive"/>
+      <node ref="R20" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="3" name="A_CLR_N_BUF" class="Default">
+      <node ref="R20" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="Y3_12" pintype="tri_state"/>
+    </net>
+    <net code="4" name="A_CLR_N_SRC" class="Default">
+      <node ref="J1" pin="25" pinfunction="P1_25_25" pintype="passive"/>
+      <node ref="R124" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="8" pinfunction="A3_8" pintype="input"/>
+    </net>
+    <net code="5" name="A_DATA0" class="Default">
+      <node ref="J2" pin="3" pinfunction="PIN_3_3" pintype="passive"/>
+      <node ref="R1" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="6" name="A_DATA0_BUF" class="Default">
+      <node ref="R1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="Y0_18" pintype="tri_state"/>
+    </net>
+    <net code="7" name="A_DATA0_SRC" class="Default">
+      <node ref="J1" pin="3" pinfunction="P1_3_3" pintype="passive"/>
+      <node ref="R101" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="A0_2" pintype="input"/>
+    </net>
+    <net code="8" name="A_DATA1" class="Default">
+      <node ref="J2" pin="5" pinfunction="PIN_5_5" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="9" name="A_DATA1_BUF" class="Default">
+      <node ref="R2" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="Y1_16" pintype="tri_state"/>
+    </net>
+    <net code="10" name="A_DATA1_SRC" class="Default">
+      <node ref="J1" pin="5" pinfunction="P1_5_5" pintype="passive"/>
+      <node ref="R102" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="A1_4" pintype="input"/>
+    </net>
+    <net code="11" name="A_DATA2" class="Default">
+      <node ref="J2" pin="7" pinfunction="PIN_7_7" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="12" name="A_DATA2_BUF" class="Default">
+      <node ref="R3" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="Y2_14" pintype="tri_state"/>
+    </net>
+    <net code="13" name="A_DATA2_SRC" class="Default">
+      <node ref="J1" pin="7" pinfunction="P1_7_7" pintype="passive"/>
+      <node ref="R103" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="A2_6" pintype="input"/>
+    </net>
+    <net code="14" name="A_DATA3" class="Default">
+      <node ref="J2" pin="9" pinfunction="PIN_9_9" pintype="passive"/>
+      <node ref="R4" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="15" name="A_DATA3_BUF" class="Default">
+      <node ref="R4" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="Y3_12" pintype="tri_state"/>
+    </net>
+    <net code="16" name="A_DATA3_SRC" class="Default">
+      <node ref="J1" pin="9" pinfunction="P1_9_9" pintype="passive"/>
+      <node ref="R104" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="A3_8" pintype="input"/>
+    </net>
+    <net code="17" name="A_DATA4" class="Default">
+      <node ref="J2" pin="11" pinfunction="PIN_11_11" pintype="passive"/>
+      <node ref="R5" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="18" name="A_DATA4_BUF" class="Default">
+      <node ref="R5" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="Y4_9" pintype="tri_state"/>
+    </net>
+    <net code="19" name="A_DATA4_SRC" class="Default">
+      <node ref="J1" pin="11" pinfunction="P1_11_11" pintype="passive"/>
+      <node ref="R105" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="A4_11" pintype="input"/>
+    </net>
+    <net code="20" name="A_DATA5" class="Default">
+      <node ref="J2" pin="13" pinfunction="PIN_13_13" pintype="passive"/>
+      <node ref="R6" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="21" name="A_DATA5_BUF" class="Default">
+      <node ref="R6" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="Y5_7" pintype="tri_state"/>
+    </net>
+    <net code="22" name="A_DATA5_SRC" class="Default">
+      <node ref="J1" pin="13" pinfunction="P1_13_13" pintype="passive"/>
+      <node ref="R106" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="A5_13" pintype="input"/>
+    </net>
+    <net code="23" name="A_DATA6" class="Default">
+      <node ref="J2" pin="15" pinfunction="PIN_15_15" pintype="passive"/>
+      <node ref="R7" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="24" name="A_DATA6_BUF" class="Default">
+      <node ref="R7" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="Y6_5" pintype="tri_state"/>
+    </net>
+    <net code="25" name="A_DATA6_SRC" class="Default">
+      <node ref="J1" pin="15" pinfunction="P1_15_15" pintype="passive"/>
+      <node ref="R107" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="A6_15" pintype="input"/>
+    </net>
+    <net code="26" name="A_DATA7" class="Default">
+      <node ref="J2" pin="17" pinfunction="PIN_17_17" pintype="passive"/>
+      <node ref="R8" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="27" name="A_DATA7_BUF" class="Default">
+      <node ref="R8" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="Y7_3" pintype="tri_state"/>
+    </net>
+    <net code="28" name="A_DATA7_SRC" class="Default">
+      <node ref="J1" pin="17" pinfunction="P1_17_17" pintype="passive"/>
+      <node ref="R108" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="A7_17" pintype="input"/>
+    </net>
+    <net code="29" name="A_LATCH" class="Default">
+      <node ref="J2" pin="21" pinfunction="PIN_21_21" pintype="passive"/>
+      <node ref="R18" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="30" name="A_LATCH_BUF" class="Default">
+      <node ref="R18" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="Y1_16" pintype="tri_state"/>
+    </net>
+    <net code="31" name="A_OE_N" class="Default">
+      <node ref="J2" pin="23" pinfunction="PIN_23_23" pintype="passive"/>
+      <node ref="R19" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R92" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="TP10" pin="1" pinfunction="TEST_1" pintype="passive"/>
+    </net>
+    <net code="32" name="A_OE_N_BUF" class="Default">
+      <node ref="R19" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="Y2_14" pintype="tri_state"/>
+    </net>
+    <net code="33" name="A_OE_N_SRC" class="Default">
+      <node ref="J1" pin="19" pinfunction="P1_19_19" pintype="passive"/>
+      <node ref="R122" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="A2_6" pintype="input"/>
+    </net>
+    <net code="34" name="A_SCLK" class="Default">
+      <node ref="J2" pin="19" pinfunction="PIN_19_19" pintype="passive"/>
+      <node ref="R17" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="TEST_1" pintype="passive"/>
+    </net>
+    <net code="35" name="A_SCLK_BUF" class="Default">
+      <node ref="R17" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="Y0_18" pintype="tri_state"/>
+    </net>
+    <net code="36" name="BST1" class="Default">
+      <node ref="C210" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U11" pin="16" pinfunction="BST1_16" pintype="passive"/>
+    </net>
+    <net code="37" name="BST2" class="Default">
+      <node ref="C211" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U11" pin="15" pinfunction="BST2_15" pintype="passive"/>
+    </net>
+    <net code="38" name="B_CLR_N" class="Default">
+      <node ref="J3" pin="25" pinfunction="PIN_25_25" pintype="passive"/>
+      <node ref="R24" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="39" name="B_CLR_N_BUF" class="Default">
+      <node ref="R24" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="Y7_3" pintype="tri_state"/>
+    </net>
+    <net code="40" name="B_CLR_N_SRC" class="Default">
+      <node ref="J1" pin="26" pinfunction="P1_26_26" pintype="passive"/>
+      <node ref="R125" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="A7_17" pintype="input"/>
+    </net>
+    <net code="41" name="B_DATA0" class="Default">
+      <node ref="J3" pin="3" pinfunction="PIN_3_3" pintype="passive"/>
+      <node ref="R9" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="42" name="B_DATA0_BUF" class="Default">
+      <node ref="R9" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="Y0_18" pintype="tri_state"/>
+    </net>
+    <net code="43" name="B_DATA0_SRC" class="Default">
+      <node ref="J1" pin="4" pinfunction="P1_4_4" pintype="passive"/>
+      <node ref="R109" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="A0_2" pintype="input"/>
+    </net>
+    <net code="44" name="B_DATA1" class="Default">
+      <node ref="J3" pin="5" pinfunction="PIN_5_5" pintype="passive"/>
+      <node ref="R10" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="45" name="B_DATA1_BUF" class="Default">
+      <node ref="R10" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="Y1_16" pintype="tri_state"/>
+    </net>
+    <net code="46" name="B_DATA1_SRC" class="Default">
+      <node ref="J1" pin="6" pinfunction="P1_6_6" pintype="passive"/>
+      <node ref="R110" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="A1_4" pintype="input"/>
+    </net>
+    <net code="47" name="B_DATA2" class="Default">
+      <node ref="J3" pin="7" pinfunction="PIN_7_7" pintype="passive"/>
+      <node ref="R11" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="48" name="B_DATA2_BUF" class="Default">
+      <node ref="R11" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="Y2_14" pintype="tri_state"/>
+    </net>
+    <net code="49" name="B_DATA2_SRC" class="Default">
+      <node ref="J1" pin="8" pinfunction="P1_8_8" pintype="passive"/>
+      <node ref="R111" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="A2_6" pintype="input"/>
+    </net>
+    <net code="50" name="B_DATA3" class="Default">
+      <node ref="J3" pin="9" pinfunction="PIN_9_9" pintype="passive"/>
+      <node ref="R12" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="51" name="B_DATA3_BUF" class="Default">
+      <node ref="R12" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="Y3_12" pintype="tri_state"/>
+    </net>
+    <net code="52" name="B_DATA3_SRC" class="Default">
+      <node ref="J1" pin="10" pinfunction="P1_10_10" pintype="passive"/>
+      <node ref="R112" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="A3_8" pintype="input"/>
+    </net>
+    <net code="53" name="B_DATA4" class="Default">
+      <node ref="J3" pin="11" pinfunction="PIN_11_11" pintype="passive"/>
+      <node ref="R13" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="54" name="B_DATA4_BUF" class="Default">
+      <node ref="R13" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="Y4_9" pintype="tri_state"/>
+    </net>
+    <net code="55" name="B_DATA4_SRC" class="Default">
+      <node ref="J1" pin="12" pinfunction="P1_12_12" pintype="passive"/>
+      <node ref="R113" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="A4_11" pintype="input"/>
+    </net>
+    <net code="56" name="B_DATA5" class="Default">
+      <node ref="J3" pin="13" pinfunction="PIN_13_13" pintype="passive"/>
+      <node ref="R14" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="57" name="B_DATA5_BUF" class="Default">
+      <node ref="R14" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="Y5_7" pintype="tri_state"/>
+    </net>
+    <net code="58" name="B_DATA5_SRC" class="Default">
+      <node ref="J1" pin="14" pinfunction="P1_14_14" pintype="passive"/>
+      <node ref="R114" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="A5_13" pintype="input"/>
+    </net>
+    <net code="59" name="B_DATA6" class="Default">
+      <node ref="J3" pin="15" pinfunction="PIN_15_15" pintype="passive"/>
+      <node ref="R15" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="60" name="B_DATA6_BUF" class="Default">
+      <node ref="R15" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="Y6_5" pintype="tri_state"/>
+    </net>
+    <net code="61" name="B_DATA6_SRC" class="Default">
+      <node ref="J1" pin="16" pinfunction="P1_16_16" pintype="passive"/>
+      <node ref="R115" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="A6_15" pintype="input"/>
+    </net>
+    <net code="62" name="B_DATA7" class="Default">
+      <node ref="J3" pin="17" pinfunction="PIN_17_17" pintype="passive"/>
+      <node ref="R16" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="63" name="B_DATA7_BUF" class="Default">
+      <node ref="R16" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="Y7_3" pintype="tri_state"/>
+    </net>
+    <net code="64" name="B_DATA7_SRC" class="Default">
+      <node ref="J1" pin="18" pinfunction="P1_18_18" pintype="passive"/>
+      <node ref="R116" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="A7_17" pintype="input"/>
+    </net>
+    <net code="65" name="B_LATCH" class="Default">
+      <node ref="J3" pin="21" pinfunction="PIN_21_21" pintype="passive"/>
+      <node ref="R22" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="66" name="B_LATCH_BUF" class="Default">
+      <node ref="R22" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="Y5_7" pintype="tri_state"/>
+    </net>
+    <net code="67" name="B_OE_N" class="Default">
+      <node ref="J3" pin="23" pinfunction="PIN_23_23" pintype="passive"/>
+      <node ref="R23" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R93" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="TP11" pin="1" pinfunction="TEST_1" pintype="passive"/>
+    </net>
+    <net code="68" name="B_OE_N_BUF" class="Default">
+      <node ref="R23" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="Y6_5" pintype="tri_state"/>
+    </net>
+    <net code="69" name="B_OE_N_SRC" class="Default">
+      <node ref="J1" pin="20" pinfunction="P1_20_20" pintype="passive"/>
+      <node ref="R123" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="A6_15" pintype="input"/>
+    </net>
+    <net code="70" name="B_SCLK" class="Default">
+      <node ref="J3" pin="19" pinfunction="PIN_19_19" pintype="passive"/>
+      <node ref="R21" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="TP9" pin="1" pinfunction="TEST_1" pintype="passive"/>
+    </net>
+    <net code="71" name="B_SCLK_BUF" class="Default">
+      <node ref="R21" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="Y4_9" pintype="tri_state"/>
+    </net>
+    <net code="72" name="COMP" class="Default">
+      <node ref="C217" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R213" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="73" name="CORE_3V3_SENSE" class="Default">
+      <node ref="J1" pin="2" pinfunction="P1_2_2" pintype="passive"/>
+      <node ref="R122" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R123" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R90" pin="1" pinfunction="1_1" pintype="passive"/>
+    </net>
+    <net code="74" name="CORE_BAD" class="Default">
+      <node ref="U1" pin="1" pinfunction="OE1_N_1" pintype="input"/>
+      <node ref="U1" pin="19" pinfunction="OE2_N_19" pintype="input"/>
+      <node ref="U2" pin="1" pinfunction="OE1_N_1" pintype="input"/>
+      <node ref="U2" pin="19" pinfunction="OE2_N_19" pintype="input"/>
+      <node ref="U3" pin="1" pinfunction="OE1_N_1" pintype="input"/>
+      <node ref="U3" pin="19" pinfunction="OE2_N_19" pintype="input"/>
+      <node ref="U5" pin="4" pinfunction="Y_4" pintype="output"/>
+    </net>
+    <net code="75" name="CORE_OK" class="Default">
+      <node ref="R40" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="TEST_1" pintype="passive"/>
+      <node ref="U4" pin="1" pinfunction="RESET_N_1" pintype="open_collector"/>
+      <node ref="U5" pin="2" pinfunction="A_2" pintype="input"/>
+    </net>
+    <net code="76" name="CORE_SENSE_DIV" class="Default">
+      <node ref="R90" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R91" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="SENSE_5" pintype="input"/>
+    </net>
+    <net code="77" name="FB" class="Default">
+      <node ref="C217" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C218" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C219" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R210" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R211" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U11" pin="8" pinfunction="FB_8" pintype="input"/>
+    </net>
+    <net code="78" name="FET_COMMON" class="Default">
+      <node ref="C220" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="S1_1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S2_3" pintype="passive"/>
+    </net>
+    <net code="79" name="FF" class="Default">
+      <node ref="C219" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R214" pin="2" pinfunction="2_2" pintype="passive"/>
+    </net>
+    <net code="80" name="GND" class="Default">
+      <node ref="C10" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C20" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C200" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C202" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C212" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C213" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C214" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C215" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C216" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C221" pin="2" pinfunction="-_2" pintype="passive"/>
+      <node ref="C222" pin="2" pinfunction="-_2" pintype="passive"/>
+      <node ref="C230" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C231" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C232" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C30" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C40" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="C5" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="P1_1_1" pintype="passive"/>
+      <node ref="J1" pin="23" pinfunction="P1_23_23" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="PIN_10_10" pintype="passive"/>
+      <node ref="J2" pin="12" pinfunction="PIN_12_12" pintype="passive"/>
+      <node ref="J2" pin="14" pinfunction="PIN_14_14" pintype="passive"/>
+      <node ref="J2" pin="16" pinfunction="PIN_16_16" pintype="passive"/>
+      <node ref="J2" pin="18" pinfunction="PIN_18_18" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="PIN_2_2" pintype="passive"/>
+      <node ref="J2" pin="20" pinfunction="PIN_20_20" pintype="passive"/>
+      <node ref="J2" pin="22" pinfunction="PIN_22_22" pintype="passive"/>
+      <node ref="J2" pin="24" pinfunction="PIN_24_24" pintype="passive"/>
+      <node ref="J2" pin="26" pinfunction="PIN_26_26" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="PIN_4_4" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="PIN_6_6" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="PIN_8_8" pintype="passive"/>
+      <node ref="J3" pin="10" pinfunction="PIN_10_10" pintype="passive"/>
+      <node ref="J3" pin="12" pinfunction="PIN_12_12" pintype="passive"/>
+      <node ref="J3" pin="14" pinfunction="PIN_14_14" pintype="passive"/>
+      <node ref="J3" pin="16" pinfunction="PIN_16_16" pintype="passive"/>
+      <node ref="J3" pin="18" pinfunction="PIN_18_18" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="PIN_2_2" pintype="passive"/>
+      <node ref="J3" pin="20" pinfunction="PIN_20_20" pintype="passive"/>
+      <node ref="J3" pin="22" pinfunction="PIN_22_22" pintype="passive"/>
+      <node ref="J3" pin="24" pinfunction="PIN_24_24" pintype="passive"/>
+      <node ref="J3" pin="26" pinfunction="PIN_26_26" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="PIN_4_4" pintype="passive"/>
+      <node ref="J3" pin="6" pinfunction="PIN_6_6" pintype="passive"/>
+      <node ref="J3" pin="8" pinfunction="PIN_8_8" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="GND_2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="GND_2" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="GND_2" pintype="passive"/>
+      <node ref="R101" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R102" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R103" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R104" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R105" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R106" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R107" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R108" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R109" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R110" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R111" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R112" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R113" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R114" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R115" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R116" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R120" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R121" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R124" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R125" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R211" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R212" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R221" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R223" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R225" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R230" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R91" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="TEST_1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="GND_10" pintype="power_in"/>
+      <node ref="U10" pin="9" pinfunction="GND_9" pintype="power_in"/>
+      <node ref="U11" pin="1" pinfunction="PGND_1" pintype="power_in"/>
+      <node ref="U11" pin="10" pinfunction="PGND_10" pintype="power_in"/>
+      <node ref="U11" pin="11" pinfunction="PGND_11" pintype="power_in"/>
+      <node ref="U11" pin="20" pinfunction="PGND_20" pintype="power_in"/>
+      <node ref="U11" pin="21" pinfunction="EP_PGND_21" pintype="power_in"/>
+      <node ref="U11" pin="5" pinfunction="GND_5" pintype="power_in"/>
+      <node ref="U11" pin="6" pinfunction="GND_6" pintype="power_in"/>
+      <node ref="U12" pin="4" pinfunction="GND_4" pintype="power_in"/>
+      <node ref="U13" pin="2" pinfunction="GND_2" pintype="power_in"/>
+      <node ref="U2" pin="10" pinfunction="GND_10" pintype="power_in"/>
+      <node ref="U3" pin="10" pinfunction="GND_10" pintype="power_in"/>
+      <node ref="U4" pin="2" pinfunction="GND_2" pintype="power_in"/>
+      <node ref="U5" pin="3" pinfunction="GND_3" pintype="power_in"/>
+    </net>
+    <net code="81" name="IN_DVDT" class="Default">
+      <node ref="C201" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U10" pin="12" pinfunction="dVdT_12" pintype="passive"/>
+    </net>
+    <net code="82" name="IN_ILIM" class="Default">
+      <node ref="R204" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U10" pin="11" pinfunction="ILIM_11" pintype="passive"/>
+    </net>
+    <net code="83" name="IN_IMON" class="Default">
+      <node ref="R205" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U10" pin="10" pinfunction="IMON_10" pintype="output"/>
+    </net>
+    <net code="84" name="IN_OV" class="Default">
+      <node ref="R202" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R203" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U10" pin="5" pinfunction="OVP_5" pintype="input"/>
+    </net>
+    <net code="85" name="IN_RTN" class="Default">
+      <node ref="C201" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R201" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R203" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R204" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R205" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U10" pin="17" pinfunction="EP_RTN_17" pintype="power_in"/>
+      <node ref="U10" pin="6" pinfunction="MODE_6" pintype="input"/>
+      <node ref="U10" pin="8" pinfunction="RTN_8" pintype="power_in"/>
+    </net>
+    <net code="86" name="IN_UV" class="Default">
+      <node ref="R200" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R201" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U10" pin="3" pinfunction="UVLO_3" pintype="input"/>
+    </net>
+    <net code="87" name="LATCH_SRC" class="Default">
+      <node ref="J1" pin="22" pinfunction="P1_22_22" pintype="passive"/>
+      <node ref="R121" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="A5_13" pintype="input"/>
+      <node ref="U3" pin="4" pinfunction="A1_4" pintype="input"/>
+    </net>
+    <net code="88" name="OUT_FAULT_N" class="Default">
+      <node ref="R224" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U12" pin="6" pinfunction="FAULT_N_6" pintype="open_collector"/>
+    </net>
+    <net code="89" name="OUT_OV" class="Default">
+      <node ref="R222" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R223" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U12" pin="3" pinfunction="OV_3" pintype="input"/>
+    </net>
+    <net code="90" name="OUT_UV" class="Default">
+      <node ref="R220" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R221" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U12" pin="2" pinfunction="UV_2" pintype="input"/>
+    </net>
+    <net code="91" name="PASS_GATE" class="Default">
+      <node ref="C220" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="G1_2" pintype="input"/>
+      <node ref="Q1" pin="4" pinfunction="G2_4" pintype="input"/>
+      <node ref="U12" pin="8" pinfunction="GATE_8" pintype="output"/>
+    </net>
+    <net code="92" name="RT" class="Default">
+      <node ref="R212" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U11" pin="9" pinfunction="RT_9" pintype="passive"/>
+    </net>
+    <net code="93" name="SCLK_SRC" class="Default">
+      <node ref="J1" pin="21" pinfunction="P1_21_21" pintype="passive"/>
+      <node ref="R120" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="A4_11" pintype="input"/>
+      <node ref="U3" pin="2" pinfunction="A0_2" pintype="input"/>
+    </net>
+    <net code="94" name="SW1" class="Default">
+      <node ref="C210" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U11" pin="18" pinfunction="SW1_18" pintype="passive"/>
+    </net>
+    <net code="95" name="SW2" class="Default">
+      <node ref="C211" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="U11" pin="3" pinfunction="SW2_3" pintype="passive"/>
+    </net>
+    <net code="96" name="VC" class="Default">
+      <node ref="C218" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R213" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U11" pin="7" pinfunction="VC_7" pintype="passive"/>
+    </net>
+    <net code="97" name="VCC_BB" class="Default">
+      <node ref="C212" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U11" pin="12" pinfunction="VCC_12" pintype="power_out"/>
+      <node ref="U11" pin="14" pinfunction="PVCC_14" pintype="power_out"/>
+      <node ref="U11" pin="19" pinfunction="PWM_SYNC_19" pintype="input"/>
+    </net>
+    <net code="98" name="VDRV_A" class="Power,Default">
+      <node ref="F2" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="VIN_1" pintype="passive"/>
+    </net>
+    <net code="99" name="VDRV_B" class="Power,Default">
+      <node ref="F3" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="VIN_1" pintype="passive"/>
+    </net>
+    <net code="100" name="VDRV_SAFE" class="Power,Default">
+      <node ref="C221" pin="1" pinfunction="+_1" pintype="passive"/>
+      <node ref="F2" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="F3" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="Q1" pin="5" pinfunction="D2_5" pintype="passive"/>
+      <node ref="Q1" pin="6" pinfunction="D2_6" pintype="passive"/>
+      <node ref="R225" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="TEST_1" pintype="passive"/>
+      <node ref="U12" pin="7" pinfunction="VOUT_7" pintype="power_in"/>
+    </net>
+    <net code="101" name="VIN" class="Power,Default">
+      <node ref="F1" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="VIN_1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="TEST_1" pintype="passive"/>
+    </net>
+    <net code="102" name="VINPUT_FUSED" class="Power,Default">
+      <node ref="C200" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="F1" pin="2" pinfunction="2_2" pintype="passive"/>
+      <node ref="R200" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R202" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="U10" pin="1" pinfunction="IN_1" pintype="power_in"/>
+      <node ref="U10" pin="2" pinfunction="IN_2" pintype="power_in"/>
+    </net>
+    <net code="103" name="VPROT" class="Power,Default">
+      <node ref="C202" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C213" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C214" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C230" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="TEST_1" pintype="passive"/>
+      <node ref="U10" pin="15" pinfunction="OUT_15" pintype="power_out"/>
+      <node ref="U10" pin="16" pinfunction="OUT_16" pintype="power_out"/>
+      <node ref="U11" pin="13" pinfunction="VIN_13" pintype="power_in"/>
+      <node ref="U11" pin="17" pinfunction="PVIN_17" pintype="power_in"/>
+      <node ref="U11" pin="2" pinfunction="RUN_2" pintype="input"/>
+      <node ref="U13" pin="1" pinfunction="VIN_1" pintype="power_in"/>
+    </net>
+    <net code="104" name="VREG_16V8" class="Power,Default">
+      <node ref="C215" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C216" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="C222" pin="1" pinfunction="+_1" pintype="passive"/>
+      <node ref="Q1" pin="7" pinfunction="D1_7" pintype="passive"/>
+      <node ref="Q1" pin="8" pinfunction="D1_8" pintype="passive"/>
+      <node ref="R210" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R214" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R220" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="R222" pin="1" pinfunction="1_1" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="TEST_1" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="PVOUT_4" pintype="power_out"/>
+      <node ref="U12" pin="1" pinfunction="VIN_1" pintype="power_in"/>
+      <node ref="U12" pin="5" pinfunction="SHDN_N_5" pintype="input"/>
+    </net>
+    <net code="105" name="unconnected-(J1-P1_24-Pad24)" class="Default">
+      <node ref="J1" pin="24" pinfunction="P1_24_24" pintype="passive+no_connect"/>
+    </net>
+    <net code="106" name="unconnected-(J1-P1_27-Pad27)" class="Default">
+      <node ref="J1" pin="27" pinfunction="P1_27_27" pintype="passive+no_connect"/>
+    </net>
+    <net code="107" name="unconnected-(J1-P1_28-Pad28)" class="Default">
+      <node ref="J1" pin="28" pinfunction="P1_28_28" pintype="passive+no_connect"/>
+    </net>
+    <net code="108" name="unconnected-(J1-P1_29-Pad29)" class="Default">
+      <node ref="J1" pin="29" pinfunction="P1_29_29" pintype="passive+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(J1-P1_30-Pad30)" class="Default">
+      <node ref="J1" pin="30" pinfunction="P1_30_30" pintype="passive+no_connect"/>
+    </net>
+    <net code="110" name="unconnected-(J1-P1_31-Pad31)" class="Default">
+      <node ref="J1" pin="31" pinfunction="P1_31_31" pintype="passive+no_connect"/>
+    </net>
+    <net code="111" name="unconnected-(J1-P1_32-Pad32)" class="Default">
+      <node ref="J1" pin="32" pinfunction="P1_32_32" pintype="passive+no_connect"/>
+    </net>
+    <net code="112" name="unconnected-(J1-P1_33-Pad33)" class="Default">
+      <node ref="J1" pin="33" pinfunction="P1_33_33" pintype="passive+no_connect"/>
+    </net>
+    <net code="113" name="unconnected-(J1-P1_34-Pad34)" class="Default">
+      <node ref="J1" pin="34" pinfunction="P1_34_34" pintype="passive+no_connect"/>
+    </net>
+    <net code="114" name="unconnected-(J1-P1_35-Pad35)" class="Default">
+      <node ref="J1" pin="35" pinfunction="P1_35_35" pintype="passive+no_connect"/>
+    </net>
+    <net code="115" name="unconnected-(J1-P1_36-Pad36)" class="Default">
+      <node ref="J1" pin="36" pinfunction="P1_36_36" pintype="passive+no_connect"/>
+    </net>
+    <net code="116" name="unconnected-(J1-P1_37-Pad37)" class="Default">
+      <node ref="J1" pin="37" pinfunction="P1_37_37" pintype="passive+no_connect"/>
+    </net>
+    <net code="117" name="unconnected-(J1-P1_38-Pad38)" class="Default">
+      <node ref="J1" pin="38" pinfunction="P1_38_38" pintype="passive+no_connect"/>
+    </net>
+    <net code="118" name="unconnected-(J1-P1_39-Pad39)" class="Default">
+      <node ref="J1" pin="39" pinfunction="P1_39_39" pintype="passive+no_connect"/>
+    </net>
+    <net code="119" name="unconnected-(J1-P1_40-Pad40)" class="Default">
+      <node ref="J1" pin="40" pinfunction="P1_40_40" pintype="passive+no_connect"/>
+    </net>
+    <net code="120" name="unconnected-(J1-P1_41-Pad41)" class="Default">
+      <node ref="J1" pin="41" pinfunction="P1_41_41" pintype="passive+no_connect"/>
+    </net>
+    <net code="121" name="unconnected-(J1-P1_42-Pad42)" class="Default">
+      <node ref="J1" pin="42" pinfunction="P1_42_42" pintype="passive+no_connect"/>
+    </net>
+    <net code="122" name="unconnected-(J1-P1_43-Pad43)" class="Default">
+      <node ref="J1" pin="43" pinfunction="P1_43_43" pintype="passive+no_connect"/>
+    </net>
+    <net code="123" name="unconnected-(J1-P1_44-Pad44)" class="Default">
+      <node ref="J1" pin="44" pinfunction="P1_44_44" pintype="passive+no_connect"/>
+    </net>
+    <net code="124" name="unconnected-(U4-CT-Pad4)" class="Default">
+      <node ref="U4" pin="4" pinfunction="CT_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="125" name="unconnected-(U5-NC-Pad1)" class="Default">
+      <node ref="U5" pin="1" pinfunction="NC_1" pintype="no_connect"/>
+    </net>
+    <net code="126" name="unconnected-(U10-FLT_N-Pad14)" class="Default">
+      <node ref="U10" pin="14" pinfunction="FLT_N_14" pintype="open_collector+no_connect"/>
+    </net>
+    <net code="127" name="unconnected-(U10-NC-Pad4)" class="Default">
+      <node ref="U10" pin="4" pinfunction="NC_4" pintype="no_connect"/>
+    </net>
+    <net code="128" name="unconnected-(U10-NC-Pad13)" class="Default">
+      <node ref="U10" pin="13" pinfunction="NC_13" pintype="no_connect"/>
+    </net>
+    <net code="129" name="unconnected-(U10-SHDN_N-Pad7)" class="Default">
+      <node ref="U10" pin="7" pinfunction="SHDN_N_7" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>

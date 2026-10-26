@@ -1,0 +1,20 @@
+2026-10-26 11:01:20.964 INFO   Freerouting v2.5.0 (build-date: 2026-10-05)
+2026-10-26 11:01:21.288 INFO   Hardware: 20 CPU cores, 244 CPU score, 3072 MB RAM
+2026-10-26 11:01:21.293 WARN   GUI is disabled and you don't have a console available, so the only feedback from Freerouting is in the log.
+2026-10-26 11:01:22.488 WARN   Could not create HttpClient for VersionChecker: java.io.IOException: Unable to establish loopback connection
+2026-10-26 11:01:22.773 INFO   [862D5F\0F2E43] Loading board file 'seed_fine.dsn'...
+2026-10-26 11:01:23.679 INFO   [862D5F\0F2E43] Job '862D5F\0F2E43' started at 2026-10-26T15:01:23.679947Z.
+2026-10-26 11:01:25.725 INFO   [862D5F\0F2E43] Pipeline thread limits: autorouter pass is single-threaded, optimizer.max_threads=1.
+2026-10-26 11:01:27.690 INFO   [862D5F\0F2E43] Auto-routing stage started on board '9f55c1bdb3ac8221a9c52a3122a45312' with baseline score 886.26 for 65 unrouted items.
+2026-10-26 11:02:55.635 WARN   BasicBoard.normalizeTraces: reached 2000 iterations for net 'DATA4_RX' — stopping to prevent hang. The board geometry for this net may be oscillating (split/combine cycle); traces are kept as-is and further normalization for this net is suppressed on this board candidate.
+2026-10-26 11:05:15.219 INFO   [862D5F\0F2E43] Auto-routing pass #1 on board '9f55c1bdb3ac8221a9c52a3122a45312' was completed in 226.54 seconds with score 910.76 (51 unrouted and 0 violations), using 222.78 CPU seconds and the job allocated 101.29 GB of memory so far.
+2026-10-26 11:08:01.221 INFO   [862D5F\0F2E43] Auto-routing pass #2 on board 'fb1c790a5c51b93cf2b053dd79ef2c28' was completed in 164.69 seconds with score 910.76 (51 unrouted and 0 violations), using 384.61 CPU seconds and the job allocated 171.88 GB of memory so far.
+2026-10-26 11:09:41.026 WARN   BasicBoard.normalizeTraces: reached 2000 iterations for net 'Q21' — stopping to prevent hang. The board geometry for this net may be oscillating (split/combine cycle); traces are kept as-is and further normalization for this net is suppressed on this board candidate.
+2026-10-26 11:10:52.001 INFO   [862D5F\0F2E43] Auto-routing pass #3 on board '9bd80d9d0e87946a994e57d1023b1819' was completed in 168.83 seconds with score 910.76 (51 unrouted and 0 violations), using 550.73 CPU seconds and the job allocated 246.73 GB of memory so far.
+2026-10-26 11:13:33.198 INFO   [862D5F\0F2E43] Auto-routing pass #4 on board 'cda2a4187c9efbcf684a458984eb60f9' was completed in 159.91 seconds with score 914.26 (49 unrouted and 0 violations), using 707.64 CPU seconds and the job allocated 325.62 GB of memory so far.
+2026-10-26 11:15:35.092 INFO   [862D5F\0F2E43] Auto-routing pass #5 on board '15fac3d19d707b0831ba47f10e034172' was completed in 120.75 seconds with score 907.26 (53 unrouted and 0 violations), using 826.88 CPU seconds and the job allocated 388.20 GB of memory so far.
+2026-10-26 11:17:41.281 INFO   [862D5F\0F2E43] Auto-routing pass #6 on board 'ce5fd0aacaada34628b78abe6f21cd05' was completed in 125.02 seconds with score 910.76 (51 unrouted and 0 violations), using 949.27 CPU seconds and the job allocated 457.93 GB of memory so far.
+2026-10-26 11:17:46.049 INFO   [862D5F\0F2E43] Auto-routing stage completed: started with 65 unrouted nets, completed in 979.57 seconds, final score: 914.26 (49 unrouted and 0 violations), using 954.23 total CPU seconds, 459.41 GB total allocated, and 546.7 MB peak heap usage.
+2026-10-26 11:17:46.298 INFO   [862D5F\0F2E43] Job '862D5F\0F2E43' finished with state: COMPLETED (elapsed: 16 minutes 22.62 seconds, finished at UTC: 2026-10-26T15:17:46.297512600Z).
+2026-10-26 11:17:46.305 INFO   Saving output file 'C:\Users\17818\Desktop\Main\Personal\SonicSurface\Electronics\16x16 10mm transducers SMD PCB Gerbers\SonicSurface1.2_2Layers_183x169\.\SonicSurface8x8_RevB\Array8x8_RevB\authoring\fine.ses' (SES)...
+2026-10-26 11:17:46.313 INFO   Successfully saved output file 'C:\Users\17818\Desktop\Main\Personal\SonicSurface\Electronics\16x16 10mm transducers SMD PCB Gerbers\SonicSurface1.2_2Layers_183x169\.\SonicSurface8x8_RevB\Array8x8_RevB\authoring\fine.ses' (533702 bytes).
