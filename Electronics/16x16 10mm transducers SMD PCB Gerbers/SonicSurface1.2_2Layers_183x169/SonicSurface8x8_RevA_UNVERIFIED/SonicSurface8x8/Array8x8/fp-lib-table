@@ -1,1 +1,0 @@
-(fp_lib_table (lib (name "SS8") (type "KiCad") (uri "${KIPRJMOD}/SS8.pretty") (options "") (descr "Project-local footprints")))

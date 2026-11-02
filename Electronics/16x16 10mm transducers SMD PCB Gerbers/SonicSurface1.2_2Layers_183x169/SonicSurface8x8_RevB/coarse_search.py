@@ -1,4 +1,0 @@
-from pathlib import Path
-f=Path('SonicSurface8x8_RevB/finish_copper_smart.py');s=f.read_text().replace('round(v/S) for v in xy(a.GetPosition())','round(v/(2*S))*2 for v in xy(a.GetPosition())').replace('round(v/S) for v in xy(c.GetPosition())','round(v/(2*S))*2 for v in xy(c.GetPosition())')
-s=s.replace('if x>edge:moves.append((s-1,x-1,y,1))','if x>edge+1 and not flat[s-1]:moves.append((s-2,x-2,y,2))').replace('if x<nx-edge-1:moves.append((s+1,x+1,y,1))','if x<nx-edge-2 and not flat[s+1]:moves.append((s+2,x+2,y,2))').replace('if y>edge:moves.append((s-nx,x,y-1,1))','if y>edge+1 and not flat[s-nx]:moves.append((s-2*nx,x,y-2,2))').replace('if y<ny-edge-1:moves.append((s+nx,x,y+1,1))','if y<ny-edge-2 and not flat[s+nx]:moves.append((s+2*nx,x,y+2,2))').replace('choices[:24]','choices[:6]').replace('pops>250000','pops>1200000')
-f.write_text(s)
