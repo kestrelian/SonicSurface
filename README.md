@@ -1,7 +1,7 @@
 # SonicSurface
 An Open ultrasonic phased-array for applications in acoustic levitation, haptic feedback, directive audio and many more.
 
-# What is Changed in this Repository
+## What's new here?
 For our Capstone project, we designed a downsized array PCB for an 8 x 8 system. One FGPA (Waveshare/Altera) is responsible for 2 PCBs in contrast to the original SonicSurface implementation of 1 FGPA/baord.
 
 # Contents of this Repository
